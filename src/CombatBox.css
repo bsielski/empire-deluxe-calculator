@@ -1,0 +1,37 @@
+.combat_box {
+    border-width: 1px;
+    border-style: solid;
+    border-color: #444444;
+    width: 280px;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
+
+.combat_box--good {
+    background-color: #44dd44;
+}
+
+.combat_box--bad {
+   background-color: #dd4444;
+}
+
+.combat_box--medium {
+    background-color: #aaaaaa;
+}
+
+.combat_box__participants {
+    font-weight: bold;
+    font-size: 13px;
+    margin: 0 0;
+}
+
+.combat_box__cost {
+    font-size: 12px;
+    margin: 0 0;
+}
+
+.combat_box__win_ratio {
+    font-size: 12px;
+    margin: 0 0;
+}

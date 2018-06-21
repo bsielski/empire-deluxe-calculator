@@ -1,0 +1,13 @@
+.title-bar {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    color: #eeeeee;
+}
+.title-bar__title {
+    margin: 10px 0 0 0;
+
+}
+.title-bar__subtitle {
+    margin: 0 0 10px 0;
+}

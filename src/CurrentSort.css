@@ -1,0 +1,11 @@
+.current_sort {
+    background-color: #eeeeee;
+    border-width: 2px;
+    border-style: none;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    margin: 0 0 10px 0;
+    font-weight: bold;
+    font-size: 18px;
+}

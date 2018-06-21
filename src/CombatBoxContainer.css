@@ -1,0 +1,7 @@
+.combat_box_container {
+    border-width: 2px;
+    border-style: none;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
