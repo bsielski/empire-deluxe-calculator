@@ -1,5 +1,6 @@
 import React from 'react'
 import './Footer.css';
+import {VERSION} from './version';
 
 export class Footer extends React.Component {
     
@@ -21,7 +22,17 @@ export class Footer extends React.Component {
 
 	      <p className="footer__row">
 		Search fields are case insensitive and they can search by unit id ("IN", "FI", "de", "eN") or by full name.
+		</p>
+		
+	      <p className="footer__row">
+		<span className="footer__caption">Version: </span>
+		<span className="footer__value">{VERSION}</span>
 	      </p>
+
+              <p className="footer__row">
+		<span className="footer__caption">Source code: </span>
+		<a href="https://github.com/bsielski/empire-deluxe-calculator" className="footer__value">https://github.com/bsielski/empire-deluxe-calculator</a>
+</p>
 	    </div>
 	    
 	)

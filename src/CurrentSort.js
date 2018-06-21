@@ -10,7 +10,7 @@ export class CurrentSort extends React.Component {
 	return (
 	    <p className="current_sort">
 	      <span className="current_sort_method">
-		{name} <img className="sort_icon" alt="from first to last generated" src={icon} width="18" height="18"/>
+		{name}
 	      </span>
 	    </p>
 	);

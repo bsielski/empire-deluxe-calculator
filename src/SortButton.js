@@ -39,7 +39,8 @@ export class SortButton extends React.Component {
     }
     return (
       <button onClick={this.handleClick} type="button" className="sort-button">
-        {this.props.label}<img className="sort_icon" alt={alt} src={icon} width="15" height="15"/>
+            {this.props.label}
+	    <span role={this.props.newIcon["role"]} aria-label={this.props.newIcon["aria-label"]}>{this.props.newIcon.char}</span>
       </button>
     );
   }
