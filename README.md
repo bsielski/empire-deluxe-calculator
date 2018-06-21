@@ -11,4 +11,5 @@ It is writen in [React](https://reactjs.org/) framework.
 
 ## Changelog
 
+- Version 1.1.0: Add favicon and page title.
 - Version 1.0.1: The first published version.
