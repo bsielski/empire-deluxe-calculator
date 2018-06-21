@@ -6,7 +6,7 @@ import {CurrentSort} from './CurrentSort';
 import {TitleBar} from './TitleBar';
 import {Footer} from './Footer';
 
-import combatData from './combat-x-200_000.json';
+import combatData from './combat-x-200_000';
 
 import './App.css';
 
@@ -16,6 +16,7 @@ class App extends Component {
 	super(props);
 	this.state = {
 	    currentSorting: this.sortByWinRatio,
+	    currentSortingName: "sortByWinRatio",
 	    defender: "",
 	    attacker: ""
 	    
@@ -28,6 +29,7 @@ class App extends Component {
     }
 
     componentWillMount() {
+	this.setState({currentSorting: this.sortByWinRatio});
 	this.combats = combatData
 	    .filter( combat =>
 		     Number(combat.fights) > 0
@@ -139,19 +141,31 @@ class App extends Component {
     
     clickByWinRatio(isReversed) {
 	if (isReversed === false) {
-	    this.setState({currentSorting: this.sortByWinRatio});
+	    this.setState({
+		currentSorting: this.sortByWinRatio,
+		currentSortingName: "sortByWinRatio"
+	    });
 	}
 	else {
-	    this.setState({currentSorting: this.sortByWinRatioReversed});
+	    this.setState({
+		currentSorting: this.sortByWinRatioReversed,
+		currentSortingName: "sortByWinRatioReversed"
+	    });
 	}
     }
     
     clickByCostRatio(isReversed) {
 	if (isReversed === false) {
-	    this.setState({currentSorting: this.sortByCostRatio});
+	    this.setState({
+		currentSorting: this.sortByCostRatio,
+		currentSortingName: "sortByCostRatio"
+	    });
 	}
 	else {
-	    this.setState({currentSorting: this.sortByCostRatioReversed});
+	    this.setState({
+		currentSorting: this.sortByCostRatioReversed,
+		currentSortingName: "sortByCostRatioReversed"
+	    });
 	}
     }
 
@@ -175,23 +189,18 @@ class App extends Component {
 	    checkAttacker = (combat) => true;
 	}
 
-	console.log("DEF PHRASE: " + defenderPhrase + " " + new Date());
-	
 	const filtered = combats.slice()
 	      .filter( combat => 
-	      	        checkDefender(combat) && checkAttacker(combat)
+	      	       checkDefender(combat) && checkAttacker(combat)
 	      	     );
 	return filtered;
     }
 
     changeDefender(event) {
-	const field = event.target;
 	this.setState({[event.target.name]: event.target.value});
-
     }
     
     render() {
-
 	const combatToDisplay = this.state.currentSorting(this.filterCombats(this.combats));
 
 	return (
@@ -209,14 +218,14 @@ class App extends Component {
 		/>
 
 	      <CurrentSort
-		method={this.sortLabels[this.state.currentSorting.name]}	
+		method={this.sortLabels[this.state.currentSortingName]}	
 		/>
 	      
 	      <CombatBoxContainer
 		combatToDisplay={combatToDisplay}
-		keyValue={this.sortLabels[this.state.currentSorting.name].keyValue}
-		testGood={this.sortLabels[this.state.currentSorting.name].testGood}
-		testBad={this.sortLabels[this.state.currentSorting.name].testBad}
+		keyValue={this.sortLabels[this.state.currentSortingName].keyValue}
+		testGood={this.sortLabels[this.state.currentSortingName].testGood}
+		testBad={this.sortLabels[this.state.currentSortingName].testBad}
 		/>
               <Footer/>
 	    </div>
