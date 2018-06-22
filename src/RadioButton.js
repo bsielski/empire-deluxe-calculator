@@ -1,8 +1,8 @@
 import React from 'react';
 
-import './SortButton.css';
+import './RadioButton.css';
 
-export class SortButton extends React.Component {
+export class RadioButton extends React.Component {
 
     render() {
 	return (
@@ -15,7 +15,7 @@ export class SortButton extends React.Component {
 		  onChange={this.props.onChange}
 		  checked={this.props.checked}
 		  />
-		{this.props.label + " " + this.props.description}
+		{this.props.label}
 	      </label>
 	    </div>
 	);

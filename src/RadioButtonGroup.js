@@ -1,9 +1,9 @@
 import React from 'react';
-import {SortButton} from './SortButton';
+import {RadioButton} from './RadioButton';
 
-import './SortButtonContainer.css';
+import './RadioButtonGroup.css';
 
-export class SortButtonContainer extends React.Component {
+export class RadioButtonGroup extends React.Component {
 
     constructor(props) {
 	super(props);
@@ -11,20 +11,19 @@ export class SortButtonContainer extends React.Component {
     }
 
     onChange(e) {
-	this.props.onChange(e.target.value);
+	this.props.onChange(parseInt(e.target.value, 10));
     }
 
     render() {
 	const buildOption = (option, index) => {
 	    return (
-		<SortButton
+		<RadioButton
 		  key={index}
-		  name="sort by"
-		  value={option.value}
-		  label={option.label}
-		  description={option.description}
+		  name={this.props.name}
+		  value={index}
+		  label={option.buttonLabel}
 		  onChange={this.onChange}
-		  checked={this.props.selectedOption == option.value}
+		  checked={this.props.selectedOption === index}
 		  />
 	    );
 	}
@@ -36,4 +35,5 @@ export class SortButtonContainer extends React.Component {
             </div>
 	)
     }
+
 }

@@ -1,0 +1,8 @@
+.reverse_sorting_buttons {
+    background-color: #eeeeee;
+    border-width: 2px;
+    border-style: none;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}

@@ -10,6 +10,7 @@ It is writen in [React](https://reactjs.org/) framework.
 
 
 ## Changelog
+- Version 1.3.0: Google tracking code. Radio buttons instead of buttons. Colors for values instead of whole box. 500k simulation instead of 200k. Link to simulation results.
 - Version 1.2.0: Removed icons with copyright. Add link to sourcecode. Add version number.
 - Version 1.1.0: Add favicon and page title.
 - Version 1.0.1: The first published version.

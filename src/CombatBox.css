@@ -6,32 +6,38 @@
     display: flex;
     flex-flow: column;
     align-items: center;
+    background-color: #dddddd;
 }
 
-.combat_box--good {
+.combat_box__value_name {
+    text-align: right;
+    font-size: 12px;
+    margin: 0 0;
+}
+
+.combat_box__value {
+    text-align: right;
+    font-size: 13px;
+    margin: 0 0;
+    width: 34px;
+    padding: 0 4px;
+}
+
+.combat_box__value--good {
     background-color: #44dd44;
 }
 
-.combat_box--bad {
+.combat_box__value--bad {
    background-color: #dd4444;
 }
 
-.combat_box--medium {
+.combat_box__value--medium {
     background-color: #aaaaaa;
 }
 
-.combat_box__participants {
+
+ .combat_box__participants {
     font-weight: bold;
     font-size: 13px;
-    margin: 0 0;
-}
-
-.combat_box__cost {
-    font-size: 12px;
-    margin: 0 0;
-}
-
-.combat_box__win_ratio {
-    font-size: 12px;
     margin: 0 0;
 }

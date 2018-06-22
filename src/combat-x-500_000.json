@@ -1,0 +1,4916 @@
+[
+  {
+    "attacker_name": "Infantry",
+    "defender_name": "Armor",
+    "average_combat_cost_rate": "0.1000723075445318420013447602e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.249882e0"
+  },
+  {
+    "attacker_name": "Infantry",
+    "defender_name": "Truck",
+    "average_combat_cost_rate": "0.1001497119845644542117503893e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.499626e0"
+  },
+  {
+    "attacker_name": "Infantry",
+    "defender_name": "Light Artillery",
+    "average_combat_cost_rate": "0.501229509838081163668985514e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.499386e0"
+  },
+  {
+    "attacker_name": "Infantry",
+    "defender_name": "Heavy Artillery",
+    "average_combat_cost_rate": "0.250352247982579736134238504e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.499648e0"
+  },
+  {
+    "attacker_name": "Infantry",
+    "defender_name": "Engineer",
+    "average_combat_cost_rate": "0.332952217997971826781747508e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.500286e0"
+  },
+  {
+    "attacker_name": "Infantry",
+    "defender_name": "Anti Air Battery",
+    "average_combat_cost_rate": "0.332061099178370954734547546e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.500956e0"
+  },
+  {
+    "attacker_name": "Infantry",
+    "defender_name": "Fighter",
+    "average_combat_cost_rate": "0.499372394136482289122431113e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.500314e0"
+  },
+  {
+    "attacker_name": "Infantry",
+    "defender_name": "Bomber",
+    "average_combat_cost_rate": "0.501113237920567671250430479e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.499444e0"
+  },
+  {
+    "attacker_name": "Infantry",
+    "defender_name": "Helicopter",
+    "average_combat_cost_rate": "0.249378772806628554078726065e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.500622e0"
+  },
+  {
+    "attacker_name": "Infantry",
+    "defender_name": "Air Transport",
+    "average_combat_cost_rate": "0.166712006166171932716182734e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.499932e0"
+  },
+  {
+    "attacker_name": "Infantry",
+    "defender_name": "Patrol Boat",
+    "average_combat_cost_rate": "0.66509121392359586443654944e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.250246e0"
+  },
+  {
+    "attacker_name": "Infantry",
+    "defender_name": "Transport",
+    "average_combat_cost_rate": "0.309407668530545618726773869e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.287298e0"
+  },
+  {
+    "attacker_name": "Infantry",
+    "defender_name": "Destroyer",
+    "average_combat_cost_rate": "0.751386584905444519443077944e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.124294e0"
+  },
+  {
+    "attacker_name": "Infantry",
+    "defender_name": "Surfaced Sub",
+    "average_combat_cost_rate": "0.50081780438866120218579235e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.249206e0"
+  },
+  {
+    "attacker_name": "Infantry",
+    "defender_name": "Submerged Sub",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Infantry",
+    "defender_name": "Deep Running Sub",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Infantry",
+    "defender_name": "Cruiser",
+    "average_combat_cost_rate": "0.1334045775765440381826289929e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.3832e-2"
+  },
+  {
+    "attacker_name": "Infantry",
+    "defender_name": "Battleship",
+    "average_combat_cost_rate": "0.1198673940411246328157784305e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.246e-3"
+  },
+  {
+    "attacker_name": "Infantry",
+    "defender_name": "Carrier",
+    "average_combat_cost_rate": "0.998088210833872735762280841e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.389e-2"
+  },
+  {
+    "attacker_name": "Infantry",
+    "defender_name": "Sea Bee",
+    "average_combat_cost_rate": "0.250016000512016384524304778e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.499984e0"
+  },
+  {
+    "attacker_name": "Infantry",
+    "defender_name": "Scout Satellite",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Infantry",
+    "defender_name": "Armed Satellite",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Infantry",
+    "defender_name": "Short Range Missile",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Infantry",
+    "defender_name": "Long Range Missile",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Infantry",
+    "defender_name": "Short Range Nuke",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Infantry",
+    "defender_name": "Long Range Nuke",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Armor",
+    "defender_name": "Infantry",
+    "average_combat_cost_rate": "0.999690721099753110119285672e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.750132e0"
+  },
+  {
+    "attacker_name": "Armor",
+    "defender_name": "Truck",
+    "average_combat_cost_rate": "0.997513571422860752004733009e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.750474e0"
+  },
+  {
+    "attacker_name": "Armor",
+    "defender_name": "Light Artillery",
+    "average_combat_cost_rate": "0.500938806861824699155073824e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.749888e0"
+  },
+  {
+    "attacker_name": "Armor",
+    "defender_name": "Heavy Artillery",
+    "average_combat_cost_rate": "0.25128697292214314718642474e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.748656e0"
+  },
+  {
+    "attacker_name": "Armor",
+    "defender_name": "Engineer",
+    "average_combat_cost_rate": "0.331807266351510309163947888e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.75095e0"
+  },
+  {
+    "attacker_name": "Armor",
+    "defender_name": "Anti Air Battery",
+    "average_combat_cost_rate": "0.333246184108961430243270835e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.749672e0"
+  },
+  {
+    "attacker_name": "Armor",
+    "defender_name": "Fighter",
+    "average_combat_cost_rate": "0.498496038279755529623649898e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.750684e0"
+  },
+  {
+    "attacker_name": "Armor",
+    "defender_name": "Bomber",
+    "average_combat_cost_rate": "0.1002442980436132081138989567e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.49939e0"
+  },
+  {
+    "attacker_name": "Armor",
+    "defender_name": "Helicopter",
+    "average_combat_cost_rate": "0.249812047113523543431779767e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.750188e0"
+  },
+  {
+    "attacker_name": "Armor",
+    "defender_name": "Air Transport",
+    "average_combat_cost_rate": "0.166551600661429608482363802e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.750294e0"
+  },
+  {
+    "attacker_name": "Armor",
+    "defender_name": "Patrol Boat",
+    "average_combat_cost_rate": "0.664821543121644534234068774e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.500736e0"
+  },
+  {
+    "attacker_name": "Armor",
+    "defender_name": "Transport",
+    "average_combat_cost_rate": "0.309509939999344255128471349e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.58039e0"
+  },
+  {
+    "attacker_name": "Armor",
+    "defender_name": "Destroyer",
+    "average_combat_cost_rate": "0.750822481151473612063056888e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.312186e0"
+  },
+  {
+    "attacker_name": "Armor",
+    "defender_name": "Surfaced Sub",
+    "average_combat_cost_rate": "0.501426648937022381005783495e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.499108e0"
+  },
+  {
+    "attacker_name": "Armor",
+    "defender_name": "Submerged Sub",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Armor",
+    "defender_name": "Deep Running Sub",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Armor",
+    "defender_name": "Cruiser",
+    "average_combat_cost_rate": "0.2666757696359749347062752925e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.3954e-2"
+  },
+  {
+    "attacker_name": "Armor",
+    "defender_name": "Battleship",
+    "average_combat_cost_rate": "0.2403216243069132399602576841e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.23e-3"
+  },
+  {
+    "attacker_name": "Armor",
+    "defender_name": "Carrier",
+    "average_combat_cost_rate": "0.1002305166290416471442508767e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.1949e-1"
+  },
+  {
+    "attacker_name": "Armor",
+    "defender_name": "Sea Bee",
+    "average_combat_cost_rate": "0.249315833231185746947563647e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.750548e0"
+  },
+  {
+    "attacker_name": "Armor",
+    "defender_name": "Scout Satellite",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Armor",
+    "defender_name": "Armed Satellite",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Armor",
+    "defender_name": "Short Range Missile",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Armor",
+    "defender_name": "Long Range Missile",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Armor",
+    "defender_name": "Short Range Nuke",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Armor",
+    "defender_name": "Long Range Nuke",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Truck",
+    "defender_name": "Infantry",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Truck",
+    "defender_name": "Armor",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Truck",
+    "defender_name": "Light Artillery",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Truck",
+    "defender_name": "Heavy Artillery",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Truck",
+    "defender_name": "Engineer",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Truck",
+    "defender_name": "Anti Air Battery",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Truck",
+    "defender_name": "Fighter",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Truck",
+    "defender_name": "Bomber",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Truck",
+    "defender_name": "Helicopter",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Truck",
+    "defender_name": "Air Transport",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Truck",
+    "defender_name": "Patrol Boat",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Truck",
+    "defender_name": "Transport",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Truck",
+    "defender_name": "Destroyer",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Truck",
+    "defender_name": "Surfaced Sub",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Truck",
+    "defender_name": "Submerged Sub",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Truck",
+    "defender_name": "Deep Running Sub",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Truck",
+    "defender_name": "Cruiser",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Truck",
+    "defender_name": "Battleship",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Truck",
+    "defender_name": "Carrier",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Truck",
+    "defender_name": "Sea Bee",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Truck",
+    "defender_name": "Scout Satellite",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Truck",
+    "defender_name": "Armed Satellite",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Truck",
+    "defender_name": "Short Range Missile",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Truck",
+    "defender_name": "Long Range Missile",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Truck",
+    "defender_name": "Short Range Nuke",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Truck",
+    "defender_name": "Long Range Nuke",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Light Artillery",
+    "defender_name": "Infantry",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Light Artillery",
+    "defender_name": "Armor",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Light Artillery",
+    "defender_name": "Truck",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Light Artillery",
+    "defender_name": "Heavy Artillery",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Light Artillery",
+    "defender_name": "Engineer",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Light Artillery",
+    "defender_name": "Anti Air Battery",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Light Artillery",
+    "defender_name": "Fighter",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Light Artillery",
+    "defender_name": "Bomber",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Light Artillery",
+    "defender_name": "Helicopter",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Light Artillery",
+    "defender_name": "Air Transport",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Light Artillery",
+    "defender_name": "Patrol Boat",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Light Artillery",
+    "defender_name": "Transport",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Light Artillery",
+    "defender_name": "Destroyer",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Light Artillery",
+    "defender_name": "Surfaced Sub",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Light Artillery",
+    "defender_name": "Submerged Sub",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Light Artillery",
+    "defender_name": "Deep Running Sub",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Light Artillery",
+    "defender_name": "Cruiser",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Light Artillery",
+    "defender_name": "Battleship",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Light Artillery",
+    "defender_name": "Carrier",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Light Artillery",
+    "defender_name": "Sea Bee",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Light Artillery",
+    "defender_name": "Scout Satellite",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Light Artillery",
+    "defender_name": "Armed Satellite",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Light Artillery",
+    "defender_name": "Short Range Missile",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Light Artillery",
+    "defender_name": "Long Range Missile",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Light Artillery",
+    "defender_name": "Short Range Nuke",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Light Artillery",
+    "defender_name": "Long Range Nuke",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Heavy Artillery",
+    "defender_name": "Infantry",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Heavy Artillery",
+    "defender_name": "Armor",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Heavy Artillery",
+    "defender_name": "Truck",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Heavy Artillery",
+    "defender_name": "Light Artillery",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Heavy Artillery",
+    "defender_name": "Engineer",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Heavy Artillery",
+    "defender_name": "Anti Air Battery",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Heavy Artillery",
+    "defender_name": "Fighter",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Heavy Artillery",
+    "defender_name": "Bomber",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Heavy Artillery",
+    "defender_name": "Helicopter",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Heavy Artillery",
+    "defender_name": "Air Transport",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Heavy Artillery",
+    "defender_name": "Patrol Boat",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Heavy Artillery",
+    "defender_name": "Transport",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Heavy Artillery",
+    "defender_name": "Destroyer",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Heavy Artillery",
+    "defender_name": "Surfaced Sub",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Heavy Artillery",
+    "defender_name": "Submerged Sub",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Heavy Artillery",
+    "defender_name": "Deep Running Sub",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Heavy Artillery",
+    "defender_name": "Cruiser",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Heavy Artillery",
+    "defender_name": "Battleship",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Heavy Artillery",
+    "defender_name": "Carrier",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Heavy Artillery",
+    "defender_name": "Sea Bee",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Heavy Artillery",
+    "defender_name": "Scout Satellite",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Heavy Artillery",
+    "defender_name": "Armed Satellite",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Heavy Artillery",
+    "defender_name": "Short Range Missile",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Heavy Artillery",
+    "defender_name": "Long Range Missile",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Heavy Artillery",
+    "defender_name": "Short Range Nuke",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Heavy Artillery",
+    "defender_name": "Long Range Nuke",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Engineer",
+    "defender_name": "Infantry",
+    "average_combat_cost_rate": "0.2999352069976442544205225835e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.500054e0"
+  },
+  {
+    "attacker_name": "Engineer",
+    "defender_name": "Armor",
+    "average_combat_cost_rate": "0.3011717716128100863790572893e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.24898e0"
+  },
+  {
+    "attacker_name": "Engineer",
+    "defender_name": "Truck",
+    "average_combat_cost_rate": "0.2992066503948771826102240633e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.500662e0"
+  },
+  {
+    "attacker_name": "Engineer",
+    "defender_name": "Light Artillery",
+    "average_combat_cost_rate": "0.1492172476800689396538654879e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.501308e0"
+  },
+  {
+    "attacker_name": "Engineer",
+    "defender_name": "Heavy Artillery",
+    "average_combat_cost_rate": "0.749760038393856982882738762e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.50008e0"
+  },
+  {
+    "attacker_name": "Engineer",
+    "defender_name": "Anti Air Battery",
+    "average_combat_cost_rate": "0.1001801621459313382043839456e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.49955e0"
+  },
+  {
+    "attacker_name": "Engineer",
+    "defender_name": "Fighter",
+    "average_combat_cost_rate": "0.150524114054911766120113478e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.499128e0"
+  },
+  {
+    "attacker_name": "Engineer",
+    "defender_name": "Bomber",
+    "average_combat_cost_rate": "0.1501224499595835100721094206e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.499796e0"
+  },
+  {
+    "attacker_name": "Engineer",
+    "defender_name": "Helicopter",
+    "average_combat_cost_rate": "0.750396104571606904222714797e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.499868e0"
+  },
+  {
+    "attacker_name": "Engineer",
+    "defender_name": "Air Transport",
+    "average_combat_cost_rate": "0.499000999000999000999001e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.5005e0"
+  },
+  {
+    "attacker_name": "Engineer",
+    "defender_name": "Patrol Boat",
+    "average_combat_cost_rate": "0.1998603340787513226949125889e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.250162e0"
+  },
+  {
+    "attacker_name": "Engineer",
+    "defender_name": "Transport",
+    "average_combat_cost_rate": "0.928948743067081279202184385e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.286684e0"
+  },
+  {
+    "attacker_name": "Engineer",
+    "defender_name": "Destroyer",
+    "average_combat_cost_rate": "0.2249604131202230118018028311e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.124864e0"
+  },
+  {
+    "attacker_name": "Engineer",
+    "defender_name": "Surfaced Sub",
+    "average_combat_cost_rate": "0.1501798085779504224900885027e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.249972e0"
+  },
+  {
+    "attacker_name": "Engineer",
+    "defender_name": "Submerged Sub",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Engineer",
+    "defender_name": "Deep Running Sub",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Engineer",
+    "defender_name": "Cruiser",
+    "average_combat_cost_rate": "0.4006757449786717991106713406e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.3862e-2"
+  },
+  {
+    "attacker_name": "Engineer",
+    "defender_name": "Battleship",
+    "average_combat_cost_rate": "0.3603914845893497286363727395e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.254e-3"
+  },
+  {
+    "attacker_name": "Engineer",
+    "defender_name": "Carrier",
+    "average_combat_cost_rate": "0.2996816692007429724514480341e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.3982e-2"
+  },
+  {
+    "attacker_name": "Engineer",
+    "defender_name": "Sea Bee",
+    "average_combat_cost_rate": "0.753289196762516385852244711e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.498906e0"
+  },
+  {
+    "attacker_name": "Engineer",
+    "defender_name": "Scout Satellite",
+    "average_combat_cost_rate": "0.74747981982117026299813376e-1",
+    "fights": "0.5e6",
+    "win_ratio": "0.800538e0"
+  },
+  {
+    "attacker_name": "Engineer",
+    "defender_name": "Armed Satellite",
+    "average_combat_cost_rate": "0.5768076969228923150766277e-1",
+    "fights": "0.5e6",
+    "win_ratio": "0.800032e0"
+  },
+  {
+    "attacker_name": "Engineer",
+    "defender_name": "Short Range Missile",
+    "average_combat_cost_rate": "0.28045240575973135245748038e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.800454e0"
+  },
+  {
+    "attacker_name": "Engineer",
+    "defender_name": "Long Range Missile",
+    "average_combat_cost_rate": "0.186764639757790134744225783e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.800628e0"
+  },
+  {
+    "attacker_name": "Engineer",
+    "defender_name": "Short Range Nuke",
+    "average_combat_cost_rate": "0.57660580413077638382854809e-1",
+    "fights": "0.5e6",
+    "win_ratio": "0.800088e0"
+  },
+  {
+    "attacker_name": "Engineer",
+    "defender_name": "Long Range Nuke",
+    "average_combat_cost_rate": "0.3758582051288464472496167e-1",
+    "fights": "0.5e6",
+    "win_ratio": "0.799634e0"
+  },
+  {
+    "attacker_name": "Anti Air Battery",
+    "defender_name": "Infantry",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Anti Air Battery",
+    "defender_name": "Armor",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Anti Air Battery",
+    "defender_name": "Truck",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Anti Air Battery",
+    "defender_name": "Light Artillery",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Anti Air Battery",
+    "defender_name": "Heavy Artillery",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Anti Air Battery",
+    "defender_name": "Engineer",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Anti Air Battery",
+    "defender_name": "Fighter",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Anti Air Battery",
+    "defender_name": "Bomber",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Anti Air Battery",
+    "defender_name": "Helicopter",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Anti Air Battery",
+    "defender_name": "Air Transport",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Anti Air Battery",
+    "defender_name": "Patrol Boat",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Anti Air Battery",
+    "defender_name": "Transport",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Anti Air Battery",
+    "defender_name": "Destroyer",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Anti Air Battery",
+    "defender_name": "Surfaced Sub",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Anti Air Battery",
+    "defender_name": "Submerged Sub",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Anti Air Battery",
+    "defender_name": "Deep Running Sub",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Anti Air Battery",
+    "defender_name": "Cruiser",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Anti Air Battery",
+    "defender_name": "Battleship",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Anti Air Battery",
+    "defender_name": "Carrier",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Anti Air Battery",
+    "defender_name": "Sea Bee",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Anti Air Battery",
+    "defender_name": "Scout Satellite",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Anti Air Battery",
+    "defender_name": "Armed Satellite",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Anti Air Battery",
+    "defender_name": "Short Range Missile",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Anti Air Battery",
+    "defender_name": "Long Range Missile",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Anti Air Battery",
+    "defender_name": "Short Range Nuke",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Anti Air Battery",
+    "defender_name": "Long Range Nuke",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Fighter",
+    "defender_name": "Infantry",
+    "average_combat_cost_rate": "0.200344296094641391596773225e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.49957e0"
+  },
+  {
+    "attacker_name": "Fighter",
+    "defender_name": "Armor",
+    "average_combat_cost_rate": "0.1998699034406274493076623674e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.250276e0"
+  },
+  {
+    "attacker_name": "Fighter",
+    "defender_name": "Truck",
+    "average_combat_cost_rate": "0.1031331845959840915704724028e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.659776e0"
+  },
+  {
+    "attacker_name": "Fighter",
+    "defender_name": "Light Artillery",
+    "average_combat_cost_rate": "0.513834937493755430882838259e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.660574e0"
+  },
+  {
+    "attacker_name": "Fighter",
+    "defender_name": "Heavy Artillery",
+    "average_combat_cost_rate": "0.255622587674888847917353024e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.661706e0"
+  },
+  {
+    "attacker_name": "Fighter",
+    "defender_name": "Engineer",
+    "average_combat_cost_rate": "0.669799342993309651155642159e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.498828e0"
+  },
+  {
+    "attacker_name": "Fighter",
+    "defender_name": "Anti Air Battery",
+    "average_combat_cost_rate": "0.66892649028823435920243719e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.499154e0"
+  },
+  {
+    "attacker_name": "Fighter",
+    "defender_name": "Bomber",
+    "average_combat_cost_rate": "0.515537288279440827362116418e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.659832e0"
+  },
+  {
+    "attacker_name": "Fighter",
+    "defender_name": "Helicopter",
+    "average_combat_cost_rate": "0.49794423487615512045186915e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.50103e0"
+  },
+  {
+    "attacker_name": "Fighter",
+    "defender_name": "Air Transport",
+    "average_combat_cost_rate": "0.172086281193235059543484787e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.659518e0"
+  },
+  {
+    "attacker_name": "Fighter",
+    "defender_name": "Patrol Boat",
+    "average_combat_cost_rate": "0.1329801150533111107561178649e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.250802e0"
+  },
+  {
+    "attacker_name": "Fighter",
+    "defender_name": "Transport",
+    "average_combat_cost_rate": "0.618354824057653195545821966e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.287546e0"
+  },
+  {
+    "attacker_name": "Fighter",
+    "defender_name": "Destroyer",
+    "average_combat_cost_rate": "0.1494245602997893815476353292e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.12595e0"
+  },
+  {
+    "attacker_name": "Fighter",
+    "defender_name": "Surfaced Sub",
+    "average_combat_cost_rate": "0.994268556776362114549150381e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.251624e0"
+  },
+  {
+    "attacker_name": "Fighter",
+    "defender_name": "Submerged Sub",
+    "average_combat_cost_rate": "0.515202018173786375866613609e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.435522e0"
+  },
+  {
+    "attacker_name": "Fighter",
+    "defender_name": "Deep Running Sub",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Fighter",
+    "defender_name": "Cruiser",
+    "average_combat_cost_rate": "0.2670038523057212335151267831e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.384e-2"
+  },
+  {
+    "attacker_name": "Fighter",
+    "defender_name": "Battleship",
+    "average_combat_cost_rate": "0.2405413685797696576946520805e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.278e-3"
+  },
+  {
+    "attacker_name": "Fighter",
+    "defender_name": "Carrier",
+    "average_combat_cost_rate": "0.2004080409006677947481836345e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.3954e-2"
+  },
+  {
+    "attacker_name": "Fighter",
+    "defender_name": "Sea Bee",
+    "average_combat_cost_rate": "0.502253064889872433229900818e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.498876e0"
+  },
+  {
+    "attacker_name": "Fighter",
+    "defender_name": "Scout Satellite",
+    "average_combat_cost_rate": "0.27345581197611052632775503e-1",
+    "fights": "0.5e6",
+    "win_ratio": "0.879718e0"
+  },
+  {
+    "attacker_name": "Fighter",
+    "defender_name": "Armed Satellite",
+    "average_combat_cost_rate": "0.2070212393835373744517875e-1",
+    "fights": "0.5e6",
+    "win_ratio": "0.881396e0"
+  },
+  {
+    "attacker_name": "Fighter",
+    "defender_name": "Short Range Missile",
+    "average_combat_cost_rate": "0.1874671886483973060942867e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.800028e0"
+  },
+  {
+    "attacker_name": "Fighter",
+    "defender_name": "Long Range Missile",
+    "average_combat_cost_rate": "0.124775080970850493822223999e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.800288e0"
+  },
+  {
+    "attacker_name": "Fighter",
+    "defender_name": "Short Range Nuke",
+    "average_combat_cost_rate": "0.38269422884807500192115577e-1",
+    "fights": "0.5e6",
+    "win_ratio": "0.8008e0"
+  },
+  {
+    "attacker_name": "Fighter",
+    "defender_name": "Long Range Nuke",
+    "average_combat_cost_rate": "0.25077548079809481878764834e-1",
+    "fights": "0.5e6",
+    "win_ratio": "0.799504e0"
+  },
+  {
+    "attacker_name": "Bomber",
+    "defender_name": "Infantry",
+    "average_combat_cost_rate": "0.2001520577819571437146115524e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.49981e0"
+  },
+  {
+    "attacker_name": "Bomber",
+    "defender_name": "Armor",
+    "average_combat_cost_rate": "0.999672053783179558552397407e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.500082e0"
+  },
+  {
+    "attacker_name": "Bomber",
+    "defender_name": "Truck",
+    "average_combat_cost_rate": "0.1025727763170236521139247017e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.660998e0"
+  },
+  {
+    "attacker_name": "Bomber",
+    "defender_name": "Light Artillery",
+    "average_combat_cost_rate": "0.514187941007237818358014597e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.66042e0"
+  },
+  {
+    "attacker_name": "Bomber",
+    "defender_name": "Heavy Artillery",
+    "average_combat_cost_rate": "0.258090340109650186793459804e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.659552e0"
+  },
+  {
+    "attacker_name": "Bomber",
+    "defender_name": "Engineer",
+    "average_combat_cost_rate": "0.668204438179449392366673074e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.499424e0"
+  },
+  {
+    "attacker_name": "Bomber",
+    "defender_name": "Anti Air Battery",
+    "average_combat_cost_rate": "0.66654934365775811728567886e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.500044e0"
+  },
+  {
+    "attacker_name": "Bomber",
+    "defender_name": "Fighter",
+    "average_combat_cost_rate": "0.2014990532929726600658473932e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.331676e0"
+  },
+  {
+    "attacker_name": "Bomber",
+    "defender_name": "Helicopter",
+    "average_combat_cost_rate": "0.1012099822781900769961229761e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.330666e0"
+  },
+  {
+    "attacker_name": "Bomber",
+    "defender_name": "Air Transport",
+    "average_combat_cost_rate": "0.171908551218896046482253379e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.65975e0"
+  },
+  {
+    "attacker_name": "Bomber",
+    "defender_name": "Patrol Boat",
+    "average_combat_cost_rate": "0.668509209375605001568831654e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.49931e0"
+  },
+  {
+    "attacker_name": "Bomber",
+    "defender_name": "Transport",
+    "average_combat_cost_rate": "0.3850091432657513532716495e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.436448e0"
+  },
+  {
+    "attacker_name": "Bomber",
+    "defender_name": "Destroyer",
+    "average_combat_cost_rate": "0.902051930993608739528103926e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.249144e0"
+  },
+  {
+    "attacker_name": "Bomber",
+    "defender_name": "Surfaced Sub",
+    "average_combat_cost_rate": "0.50126559971804360711939892e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.499368e0"
+  },
+  {
+    "attacker_name": "Bomber",
+    "defender_name": "Submerged Sub",
+    "average_combat_cost_rate": "0.258582603576868692385651258e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.659124e0"
+  },
+  {
+    "attacker_name": "Bomber",
+    "defender_name": "Deep Running Sub",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Bomber",
+    "defender_name": "Cruiser",
+    "average_combat_cost_rate": "0.1339505326984344489739988353e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.61564e-1"
+  },
+  {
+    "attacker_name": "Bomber",
+    "defender_name": "Battleship",
+    "average_combat_cost_rate": "0.1199558892519653856542586571e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.15568e-1"
+  },
+  {
+    "attacker_name": "Bomber",
+    "defender_name": "Carrier",
+    "average_combat_cost_rate": "0.997852884228284416157046182e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.63082e-1"
+  },
+  {
+    "attacker_name": "Bomber",
+    "defender_name": "Sea Bee",
+    "average_combat_cost_rate": "0.500844712937719435203311595e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.499578e0"
+  },
+  {
+    "attacker_name": "Bomber",
+    "defender_name": "Scout Satellite",
+    "average_combat_cost_rate": "0.50076273263345320322698423e-1",
+    "fights": "0.5e6",
+    "win_ratio": "0.799756e0"
+  },
+  {
+    "attacker_name": "Bomber",
+    "defender_name": "Armed Satellite",
+    "average_combat_cost_rate": "0.38673309871628021592983051e-1",
+    "fights": "0.5e6",
+    "win_ratio": "0.79912e0"
+  },
+  {
+    "attacker_name": "Bomber",
+    "defender_name": "Short Range Missile",
+    "average_combat_cost_rate": "0.188177833484692690468863754e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.799422e0"
+  },
+  {
+    "attacker_name": "Bomber",
+    "defender_name": "Long Range Missile",
+    "average_combat_cost_rate": "0.125182865988301578211626901e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.799766e0"
+  },
+  {
+    "attacker_name": "Bomber",
+    "defender_name": "Short Range Nuke",
+    "average_combat_cost_rate": "0.38440386942051758921903206e-1",
+    "fights": "0.5e6",
+    "win_ratio": "0.800088e0"
+  },
+  {
+    "attacker_name": "Bomber",
+    "defender_name": "Long Range Nuke",
+    "average_combat_cost_rate": "0.24938155612971579068361161e-1",
+    "fights": "0.5e6",
+    "win_ratio": "0.800396e0"
+  },
+  {
+    "attacker_name": "Helicopter",
+    "defender_name": "Infantry",
+    "average_combat_cost_rate": "0.4005091238027385417125291686e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.499682e0"
+  },
+  {
+    "attacker_name": "Helicopter",
+    "defender_name": "Armor",
+    "average_combat_cost_rate": "0.4003894527655147578590767836e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.2495e0"
+  },
+  {
+    "attacker_name": "Helicopter",
+    "defender_name": "Truck",
+    "average_combat_cost_rate": "0.2070263297670536459518931634e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.65895e0"
+  },
+  {
+    "attacker_name": "Helicopter",
+    "defender_name": "Light Artillery",
+    "average_combat_cost_rate": "0.1032011982511354884874505025e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.659628e0"
+  },
+  {
+    "attacker_name": "Helicopter",
+    "defender_name": "Heavy Artillery",
+    "average_combat_cost_rate": "0.516268039799003508644244095e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.659514e0"
+  },
+  {
+    "attacker_name": "Helicopter",
+    "defender_name": "Engineer",
+    "average_combat_cost_rate": "0.1337200265985146492120590615e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.499276e0"
+  },
+  {
+    "attacker_name": "Helicopter",
+    "defender_name": "Anti Air Battery",
+    "average_combat_cost_rate": "0.1331744946678446312664318733e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.500298e0"
+  },
+  {
+    "attacker_name": "Helicopter",
+    "defender_name": "Fighter",
+    "average_combat_cost_rate": "0.2000096002304055297327135851e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.499988e0"
+  },
+  {
+    "attacker_name": "Helicopter",
+    "defender_name": "Bomber",
+    "average_combat_cost_rate": "0.1028164962314487043996208737e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.660466e0"
+  },
+  {
+    "attacker_name": "Helicopter",
+    "defender_name": "Air Transport",
+    "average_combat_cost_rate": "0.34424920289283685233147527e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.659468e0"
+  },
+  {
+    "attacker_name": "Helicopter",
+    "defender_name": "Patrol Boat",
+    "average_combat_cost_rate": "0.267177384529771841958820256e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.249816e0"
+  },
+  {
+    "attacker_name": "Helicopter",
+    "defender_name": "Transport",
+    "average_combat_cost_rate": "0.1237079578167720282957455119e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.28737e0"
+  },
+  {
+    "attacker_name": "Helicopter",
+    "defender_name": "Destroyer",
+    "average_combat_cost_rate": "0.3004668822564144815890474915e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.124758e0"
+  },
+  {
+    "attacker_name": "Helicopter",
+    "defender_name": "Surfaced Sub",
+    "average_combat_cost_rate": "0.200294083111836978682977338e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.24945e0"
+  },
+  {
+    "attacker_name": "Helicopter",
+    "defender_name": "Submerged Sub",
+    "average_combat_cost_rate": "0.1030024722375393020037174857e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.435874e0"
+  },
+  {
+    "attacker_name": "Helicopter",
+    "defender_name": "Deep Running Sub",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Helicopter",
+    "defender_name": "Cruiser",
+    "average_combat_cost_rate": "0.5327311451869738040134289026e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.3874e-2"
+  },
+  {
+    "attacker_name": "Helicopter",
+    "defender_name": "Battleship",
+    "average_combat_cost_rate": "0.4809293767475421665013078381e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.238e-3"
+  },
+  {
+    "attacker_name": "Helicopter",
+    "defender_name": "Carrier",
+    "average_combat_cost_rate": "0.3997383186572375761564950755e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.402e-2"
+  },
+  {
+    "attacker_name": "Helicopter",
+    "defender_name": "Sea Bee",
+    "average_combat_cost_rate": "0.997108187344724838433947644e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.500724e0"
+  },
+  {
+    "attacker_name": "Helicopter",
+    "defender_name": "Scout Satellite",
+    "average_combat_cost_rate": "0.54375063896493360444378812e-1",
+    "fights": "0.5e6",
+    "win_ratio": "0.88033e0"
+  },
+  {
+    "attacker_name": "Helicopter",
+    "defender_name": "Armed Satellite",
+    "average_combat_cost_rate": "0.41817443717134068969807775e-1",
+    "fights": "0.5e6",
+    "win_ratio": "0.880354e0"
+  },
+  {
+    "attacker_name": "Helicopter",
+    "defender_name": "Short Range Missile",
+    "average_combat_cost_rate": "0.377605177183341886868029391e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.79889e0"
+  },
+  {
+    "attacker_name": "Helicopter",
+    "defender_name": "Long Range Missile",
+    "average_combat_cost_rate": "0.250203158013177141285458887e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.79987e0"
+  },
+  {
+    "attacker_name": "Helicopter",
+    "defender_name": "Short Range Nuke",
+    "average_combat_cost_rate": "0.77209829014923810546549487e-1",
+    "fights": "0.5e6",
+    "win_ratio": "0.799404e0"
+  },
+  {
+    "attacker_name": "Helicopter",
+    "defender_name": "Long Range Nuke",
+    "average_combat_cost_rate": "0.49905660613118547748225045e-1",
+    "fights": "0.5e6",
+    "win_ratio": "0.800302e0"
+  },
+  {
+    "attacker_name": "Air Transport",
+    "defender_name": "Infantry",
+    "average_combat_cost_rate": "0.12225891701751508192538319938e2",
+    "fights": "0.5e6",
+    "win_ratio": "0.329202e0"
+  },
+  {
+    "attacker_name": "Air Transport",
+    "defender_name": "Armor",
+    "average_combat_cost_rate": "0.12249221725754468209786111925e2",
+    "fights": "0.5e6",
+    "win_ratio": "0.108126e0"
+  },
+  {
+    "attacker_name": "Air Transport",
+    "defender_name": "Truck",
+    "average_combat_cost_rate": "0.12167944478761672904327604375e2",
+    "fights": "0.5e6",
+    "win_ratio": "0.330252e0"
+  },
+  {
+    "attacker_name": "Air Transport",
+    "defender_name": "Light Artillery",
+    "average_combat_cost_rate": "0.6097084081315802241521517637e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.329776e0"
+  },
+  {
+    "attacker_name": "Air Transport",
+    "defender_name": "Heavy Artillery",
+    "average_combat_cost_rate": "0.3031941121020955695743600899e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.330984e0"
+  },
+  {
+    "attacker_name": "Air Transport",
+    "defender_name": "Engineer",
+    "average_combat_cost_rate": "0.4071166210317339857813287354e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.329426e0"
+  },
+  {
+    "attacker_name": "Air Transport",
+    "defender_name": "Anti Air Battery",
+    "average_combat_cost_rate": "0.4049277413812920046700421635e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.330618e0"
+  },
+  {
+    "attacker_name": "Air Transport",
+    "defender_name": "Fighter",
+    "average_combat_cost_rate": "0.6075343501751541295838047471e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.330566e0"
+  },
+  {
+    "attacker_name": "Air Transport",
+    "defender_name": "Bomber",
+    "average_combat_cost_rate": "0.6081607323408145596328608879e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.330338e0"
+  },
+  {
+    "attacker_name": "Air Transport",
+    "defender_name": "Helicopter",
+    "average_combat_cost_rate": "0.3052987670509388260576590359e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.329454e0"
+  },
+  {
+    "attacker_name": "Air Transport",
+    "defender_name": "Patrol Boat",
+    "average_combat_cost_rate": "0.8118224267134364394232740359e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.108964e0"
+  },
+  {
+    "attacker_name": "Air Transport",
+    "defender_name": "Transport",
+    "average_combat_cost_rate": "0.3603450373996385845323329597e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.124822e0"
+  },
+  {
+    "attacker_name": "Air Transport",
+    "defender_name": "Destroyer",
+    "average_combat_cost_rate": "0.9123300121179480274673488623e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.3632e-1"
+  },
+  {
+    "attacker_name": "Air Transport",
+    "defender_name": "Surfaced Sub",
+    "average_combat_cost_rate": "0.6068814341659321987697284135e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.109446e0"
+  },
+  {
+    "attacker_name": "Air Transport",
+    "defender_name": "Submerged Sub",
+    "average_combat_cost_rate": "0.6095710338412715782562306787e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.108734e0"
+  },
+  {
+    "attacker_name": "Air Transport",
+    "defender_name": "Deep Running Sub",
+    "average_combat_cost_rate": "0.6072450060704720417248325505e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.10971e0"
+  },
+  {
+    "attacker_name": "Air Transport",
+    "defender_name": "Cruiser",
+    "average_combat_cost_rate": "0.16225268461685132070572867013e2",
+    "fights": "0.5e6",
+    "win_ratio": "0.13e-3"
+  },
+  {
+    "attacker_name": "Air Transport",
+    "defender_name": "Battleship",
+    "average_combat_cost_rate": "0.14688002350080376012860162058e2",
+    "fights": "0.5e6",
+    "win_ratio": "0.0"
+  },
+  {
+    "attacker_name": "Air Transport",
+    "defender_name": "Carrier",
+    "average_combat_cost_rate": "0.1219044677366258489024722316e2",
+    "fights": "0.5e6",
+    "win_ratio": "0.168e-3"
+  },
+  {
+    "attacker_name": "Air Transport",
+    "defender_name": "Sea Bee",
+    "average_combat_cost_rate": "0.3033365570599613152804642166e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.33088e0"
+  },
+  {
+    "attacker_name": "Air Transport",
+    "defender_name": "Scout Satellite",
+    "average_combat_cost_rate": "0.149645792363108431266226708e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.800378e0"
+  },
+  {
+    "attacker_name": "Air Transport",
+    "defender_name": "Armed Satellite",
+    "average_combat_cost_rate": "0.115100620636644145066247181e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.800394e0"
+  },
+  {
+    "attacker_name": "Air Transport",
+    "defender_name": "Short Range Missile",
+    "average_combat_cost_rate": "0.558918628748345859029737085e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.80102e0"
+  },
+  {
+    "attacker_name": "Air Transport",
+    "defender_name": "Long Range Missile",
+    "average_combat_cost_rate": "0.375187518751875187518751875e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.79992e0"
+  },
+  {
+    "attacker_name": "Air Transport",
+    "defender_name": "Short Range Nuke",
+    "average_combat_cost_rate": "0.116257086662398683550622979e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.798792e0"
+  },
+  {
+    "attacker_name": "Air Transport",
+    "defender_name": "Long Range Nuke",
+    "average_combat_cost_rate": "0.74470124773445574512065427e-1",
+    "fights": "0.5e6",
+    "win_ratio": "0.801132e0"
+  },
+  {
+    "attacker_name": "Patrol Boat",
+    "defender_name": "Infantry",
+    "average_combat_cost_rate": "0.1497701415927788482294906338e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.750462e0"
+  },
+  {
+    "attacker_name": "Patrol Boat",
+    "defender_name": "Armor",
+    "average_combat_cost_rate": "0.1499044966557832314044430651e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.500168e0"
+  },
+  {
+    "attacker_name": "Patrol Boat",
+    "defender_name": "Truck",
+    "average_combat_cost_rate": "0.1501296387187640041825825314e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.749776e0"
+  },
+  {
+    "attacker_name": "Patrol Boat",
+    "defender_name": "Light Artillery",
+    "average_combat_cost_rate": "0.746910950716318646648970583e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.751202e0"
+  },
+  {
+    "attacker_name": "Patrol Boat",
+    "defender_name": "Heavy Artillery",
+    "average_combat_cost_rate": "0.375295041699226824057800169e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.749894e0"
+  },
+  {
+    "attacker_name": "Patrol Boat",
+    "defender_name": "Engineer",
+    "average_combat_cost_rate": "0.500146681139205734965849964e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.749926e0"
+  },
+  {
+    "attacker_name": "Patrol Boat",
+    "defender_name": "Anti Air Battery",
+    "average_combat_cost_rate": "0.500170680321092354054991066e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.74994e0"
+  },
+  {
+    "attacker_name": "Patrol Boat",
+    "defender_name": "Fighter",
+    "average_combat_cost_rate": "0.1520759278335558005919563577e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.551392e0"
+  },
+  {
+    "attacker_name": "Patrol Boat",
+    "defender_name": "Bomber",
+    "average_combat_cost_rate": "0.305716507874781256076220105e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.329152e0"
+  },
+  {
+    "attacker_name": "Patrol Boat",
+    "defender_name": "Helicopter",
+    "average_combat_cost_rate": "0.756293066633853993254100378e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.552632e0"
+  },
+  {
+    "attacker_name": "Patrol Boat",
+    "defender_name": "Air Transport",
+    "average_combat_cost_rate": "0.25043495895908717324708871e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.749496e0"
+  },
+  {
+    "attacker_name": "Patrol Boat",
+    "defender_name": "Transport",
+    "average_combat_cost_rate": "0.462871107448210742910786847e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.581648e0"
+  },
+  {
+    "attacker_name": "Patrol Boat",
+    "defender_name": "Destroyer",
+    "average_combat_cost_rate": "0.1124929450475193443277542151e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.312672e0"
+  },
+  {
+    "attacker_name": "Patrol Boat",
+    "defender_name": "Surfaced Sub",
+    "average_combat_cost_rate": "0.749371288522576021296201495e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.50014e0"
+  },
+  {
+    "attacker_name": "Patrol Boat",
+    "defender_name": "Submerged Sub",
+    "average_combat_cost_rate": "0.772853633071464034344791333e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.43545e0"
+  },
+  {
+    "attacker_name": "Patrol Boat",
+    "defender_name": "Deep Running Sub",
+    "average_combat_cost_rate": "0.385184921807849514893301261e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.73283e0"
+  },
+  {
+    "attacker_name": "Patrol Boat",
+    "defender_name": "Cruiser",
+    "average_combat_cost_rate": "0.4011960542291792933614963162e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.3764e-2"
+  },
+  {
+    "attacker_name": "Patrol Boat",
+    "defender_name": "Battleship",
+    "average_combat_cost_rate": "0.3593278874780604981140514647e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.252e-3"
+  },
+  {
+    "attacker_name": "Patrol Boat",
+    "defender_name": "Carrier",
+    "average_combat_cost_rate": "0.1499688933938672946660516157e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.19446e-1"
+  },
+  {
+    "attacker_name": "Patrol Boat",
+    "defender_name": "Sea Bee",
+    "average_combat_cost_rate": "0.373857212878065413241413114e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.750796e0"
+  },
+  {
+    "attacker_name": "Patrol Boat",
+    "defender_name": "Scout Satellite",
+    "average_combat_cost_rate": "0.14949057734567490177798495e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.75085e0"
+  },
+  {
+    "attacker_name": "Patrol Boat",
+    "defender_name": "Armed Satellite",
+    "average_combat_cost_rate": "0.115210906345104418092139784e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.750592e0"
+  },
+  {
+    "attacker_name": "Patrol Boat",
+    "defender_name": "Short Range Missile",
+    "average_combat_cost_rate": "0.11196756294070464857358346e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.501186e0"
+  },
+  {
+    "attacker_name": "Patrol Boat",
+    "defender_name": "Long Range Missile",
+    "average_combat_cost_rate": "0.748585335443341485637558145e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.500472e0"
+  },
+  {
+    "attacker_name": "Patrol Boat",
+    "defender_name": "Short Range Nuke",
+    "average_combat_cost_rate": "0.115050520904622531634987284e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.750824e0"
+  },
+  {
+    "attacker_name": "Patrol Boat",
+    "defender_name": "Long Range Nuke",
+    "average_combat_cost_rate": "0.75171525327839541424934485e-1",
+    "fights": "0.5e6",
+    "win_ratio": "0.749452e0"
+  },
+  {
+    "attacker_name": "Transport",
+    "defender_name": "Infantry",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Transport",
+    "defender_name": "Armor",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Transport",
+    "defender_name": "Truck",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Transport",
+    "defender_name": "Light Artillery",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Transport",
+    "defender_name": "Heavy Artillery",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Transport",
+    "defender_name": "Engineer",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Transport",
+    "defender_name": "Anti Air Battery",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Transport",
+    "defender_name": "Fighter",
+    "average_combat_cost_rate": "0.1692751420289191298689154658e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.698684e0"
+  },
+  {
+    "attacker_name": "Transport",
+    "defender_name": "Bomber",
+    "average_combat_cost_rate": "0.2702118362892025861287480193e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.551558e0"
+  },
+  {
+    "attacker_name": "Transport",
+    "defender_name": "Helicopter",
+    "average_combat_cost_rate": "0.845632133303982976793206727e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.699594e0"
+  },
+  {
+    "attacker_name": "Transport",
+    "defender_name": "Air Transport",
+    "average_combat_cost_rate": "0.564610330787348265964852056e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.69914e0"
+  },
+  {
+    "attacker_name": "Transport",
+    "defender_name": "Patrol Boat",
+    "average_combat_cost_rate": "0.2256216922798734037835418857e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.401486e0"
+  },
+  {
+    "attacker_name": "Transport",
+    "defender_name": "Destroyer",
+    "average_combat_cost_rate": "0.2533470581844944373805578379e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.205656e0"
+  },
+  {
+    "attacker_name": "Transport",
+    "defender_name": "Surfaced Sub",
+    "average_combat_cost_rate": "0.1692119086878724264590158377e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.40115e0"
+  },
+  {
+    "attacker_name": "Transport",
+    "defender_name": "Submerged Sub",
+    "average_combat_cost_rate": "0.2498773702857538928269614757e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.250142e0"
+  },
+  {
+    "attacker_name": "Transport",
+    "defender_name": "Deep Running Sub",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Transport",
+    "defender_name": "Cruiser",
+    "average_combat_cost_rate": "0.6788772958316835695297058225e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.896e-3"
+  },
+  {
+    "attacker_name": "Transport",
+    "defender_name": "Battleship",
+    "average_combat_cost_rate": "0.12181207644925917955506108876e2",
+    "fights": "0.5e6",
+    "win_ratio": "0.0"
+  },
+  {
+    "attacker_name": "Transport",
+    "defender_name": "Carrier",
+    "average_combat_cost_rate": "0.3371581275075451448163594586e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.319e-2"
+  },
+  {
+    "attacker_name": "Transport",
+    "defender_name": "Sea Bee",
+    "average_combat_cost_rate": "0.845570077079447896047628311e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.699192e0"
+  },
+  {
+    "attacker_name": "Transport",
+    "defender_name": "Scout Satellite",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Transport",
+    "defender_name": "Armed Satellite",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Transport",
+    "defender_name": "Short Range Missile",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Transport",
+    "defender_name": "Long Range Missile",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Transport",
+    "defender_name": "Short Range Nuke",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Transport",
+    "defender_name": "Long Range Nuke",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Destroyer",
+    "defender_name": "Infantry",
+    "average_combat_cost_rate": "0.133378449129272759280555473e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.874786e0"
+  },
+  {
+    "attacker_name": "Destroyer",
+    "defender_name": "Armor",
+    "average_combat_cost_rate": "0.1331857542697694098458267968e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.687846e0"
+  },
+  {
+    "attacker_name": "Destroyer",
+    "defender_name": "Truck",
+    "average_combat_cost_rate": "0.132645037557935112673805338e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.87598e0"
+  },
+  {
+    "attacker_name": "Destroyer",
+    "defender_name": "Light Artillery",
+    "average_combat_cost_rate": "0.668295722432082636446767018e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.874126e0"
+  },
+  {
+    "attacker_name": "Destroyer",
+    "defender_name": "Heavy Artillery",
+    "average_combat_cost_rate": "0.332571093520961594840222809e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.87549e0"
+  },
+  {
+    "attacker_name": "Destroyer",
+    "defender_name": "Engineer",
+    "average_combat_cost_rate": "0.445002094998666819030206072e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.8751e0"
+  },
+  {
+    "attacker_name": "Destroyer",
+    "defender_name": "Anti Air Battery",
+    "average_combat_cost_rate": "0.445746319357741709440015936e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.874636e0"
+  },
+  {
+    "attacker_name": "Destroyer",
+    "defender_name": "Fighter",
+    "average_combat_cost_rate": "0.1357630291915023689439095216e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.69792e0"
+  },
+  {
+    "attacker_name": "Destroyer",
+    "defender_name": "Bomber",
+    "average_combat_cost_rate": "0.2169106045733813211182608063e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.55014e0"
+  },
+  {
+    "attacker_name": "Destroyer",
+    "defender_name": "Helicopter",
+    "average_combat_cost_rate": "0.675826222838385715170485133e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.69967e0"
+  },
+  {
+    "attacker_name": "Destroyer",
+    "defender_name": "Air Transport",
+    "average_combat_cost_rate": "0.222243054761632559734766206e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.8747e0"
+  },
+  {
+    "attacker_name": "Destroyer",
+    "defender_name": "Patrol Boat",
+    "average_combat_cost_rate": "0.890393424348617152814704244e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.68687e0"
+  },
+  {
+    "attacker_name": "Destroyer",
+    "defender_name": "Transport",
+    "average_combat_cost_rate": "0.412194449059473927285087392e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.7804e0"
+  },
+  {
+    "attacker_name": "Destroyer",
+    "defender_name": "Surfaced Sub",
+    "average_combat_cost_rate": "0.666251937642163093468913884e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.687828e0"
+  },
+  {
+    "attacker_name": "Destroyer",
+    "defender_name": "Submerged Sub",
+    "average_combat_cost_rate": "0.1029915637537097945878066855e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.435736e0"
+  },
+  {
+    "attacker_name": "Destroyer",
+    "defender_name": "Deep Running Sub",
+    "average_combat_cost_rate": "0.343000633737616719972206647e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.88342e0"
+  },
+  {
+    "attacker_name": "Destroyer",
+    "defender_name": "Cruiser",
+    "average_combat_cost_rate": "0.2671759918815340287685162061e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.19706e-1"
+  },
+  {
+    "attacker_name": "Destroyer",
+    "defender_name": "Battleship",
+    "average_combat_cost_rate": "0.4798070735691989593810676942e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.228e-3"
+  },
+  {
+    "attacker_name": "Destroyer",
+    "defender_name": "Carrier",
+    "average_combat_cost_rate": "0.1333919529509088095150048416e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.54424e-1"
+  },
+  {
+    "attacker_name": "Destroyer",
+    "defender_name": "Sea Bee",
+    "average_combat_cost_rate": "0.333921798202285560962521191e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.874592e0"
+  },
+  {
+    "attacker_name": "Destroyer",
+    "defender_name": "Scout Satellite",
+    "average_combat_cost_rate": "0.69058004524377898039019635e-1",
+    "fights": "0.5e6",
+    "win_ratio": "0.960132e0"
+  },
+  {
+    "attacker_name": "Destroyer",
+    "defender_name": "Armed Satellite",
+    "average_combat_cost_rate": "0.52952799234386479116558379e-1",
+    "fights": "0.5e6",
+    "win_ratio": "0.960356e0"
+  },
+  {
+    "attacker_name": "Destroyer",
+    "defender_name": "Short Range Missile",
+    "average_combat_cost_rate": "0.448588012458580643994701939e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.884852e0"
+  },
+  {
+    "attacker_name": "Destroyer",
+    "defender_name": "Long Range Missile",
+    "average_combat_cost_rate": "0.515082647758435222641395088e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.66003e0"
+  },
+  {
+    "attacker_name": "Destroyer",
+    "defender_name": "Short Range Nuke",
+    "average_combat_cost_rate": "0.52876154849674709779631089e-1",
+    "fights": "0.5e6",
+    "win_ratio": "0.96072e0"
+  },
+  {
+    "attacker_name": "Destroyer",
+    "defender_name": "Long Range Nuke",
+    "average_combat_cost_rate": "0.34344662552502783029212784e-1",
+    "fights": "0.5e6",
+    "win_ratio": "0.960584e0"
+  },
+  {
+    "attacker_name": "Surfaced Sub",
+    "defender_name": "Infantry",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Surfaced Sub",
+    "defender_name": "Armor",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Surfaced Sub",
+    "defender_name": "Truck",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Surfaced Sub",
+    "defender_name": "Light Artillery",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Surfaced Sub",
+    "defender_name": "Heavy Artillery",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Surfaced Sub",
+    "defender_name": "Engineer",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Surfaced Sub",
+    "defender_name": "Anti Air Battery",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Surfaced Sub",
+    "defender_name": "Fighter",
+    "average_combat_cost_rate": "0.2037576330328583890665891248e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.55024e0"
+  },
+  {
+    "attacker_name": "Surfaced Sub",
+    "defender_name": "Bomber",
+    "average_combat_cost_rate": "0.406354596167838952219257822e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.32984e0"
+  },
+  {
+    "attacker_name": "Surfaced Sub",
+    "defender_name": "Helicopter",
+    "average_combat_cost_rate": "0.1018412480276887056548073497e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.550116e0"
+  },
+  {
+    "attacker_name": "Surfaced Sub",
+    "defender_name": "Air Transport",
+    "average_combat_cost_rate": "0.33415963112785646433488809e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.749528e0"
+  },
+  {
+    "attacker_name": "Surfaced Sub",
+    "defender_name": "Patrol Boat",
+    "average_combat_cost_rate": "0.1339499044026125675276847468e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.498362e0"
+  },
+  {
+    "attacker_name": "Surfaced Sub",
+    "defender_name": "Transport",
+    "average_combat_cost_rate": "0.1200628427509964827009578782e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.312476e0"
+  },
+  {
+    "attacker_name": "Surfaced Sub",
+    "defender_name": "Destroyer",
+    "average_combat_cost_rate": "0.3053233985735865768928041323e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.107372e0"
+  },
+  {
+    "attacker_name": "Surfaced Sub",
+    "defender_name": "Submerged Sub",
+    "average_combat_cost_rate": "0.2008549727708015302889743802e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.248708e0"
+  },
+  {
+    "attacker_name": "Surfaced Sub",
+    "defender_name": "Deep Running Sub",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Surfaced Sub",
+    "defender_name": "Cruiser",
+    "average_combat_cost_rate": "0.10824901144049561948375676971e2",
+    "fights": "0.5e6",
+    "win_ratio": "0.112e-3"
+  },
+  {
+    "attacker_name": "Surfaced Sub",
+    "defender_name": "Battleship",
+    "average_combat_cost_rate": "0.9735381020760824591720008762e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.6e-5"
+  },
+  {
+    "attacker_name": "Surfaced Sub",
+    "defender_name": "Carrier",
+    "average_combat_cost_rate": "0.4057322746425700854909028912e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.876e-3"
+  },
+  {
+    "attacker_name": "Surfaced Sub",
+    "defender_name": "Sea Bee",
+    "average_combat_cost_rate": "0.1019122214867135614056782885e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.549884e0"
+  },
+  {
+    "attacker_name": "Surfaced Sub",
+    "defender_name": "Scout Satellite",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Surfaced Sub",
+    "defender_name": "Armed Satellite",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Surfaced Sub",
+    "defender_name": "Short Range Missile",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Surfaced Sub",
+    "defender_name": "Long Range Missile",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Surfaced Sub",
+    "defender_name": "Short Range Nuke",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Surfaced Sub",
+    "defender_name": "Long Range Nuke",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Submerged Sub",
+    "defender_name": "Infantry",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Submerged Sub",
+    "defender_name": "Armor",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Submerged Sub",
+    "defender_name": "Truck",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Submerged Sub",
+    "defender_name": "Light Artillery",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Submerged Sub",
+    "defender_name": "Heavy Artillery",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Submerged Sub",
+    "defender_name": "Engineer",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Submerged Sub",
+    "defender_name": "Anti Air Battery",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Submerged Sub",
+    "defender_name": "Fighter",
+    "average_combat_cost_rate": "0.2026326477328769110266600911e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.551536e0"
+  },
+  {
+    "attacker_name": "Submerged Sub",
+    "defender_name": "Bomber",
+    "average_combat_cost_rate": "0.4043281985580729182404380171e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.330946e0"
+  },
+  {
+    "attacker_name": "Submerged Sub",
+    "defender_name": "Helicopter",
+    "average_combat_cost_rate": "0.1011997160521102326272061194e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.552214e0"
+  },
+  {
+    "attacker_name": "Submerged Sub",
+    "defender_name": "Air Transport",
+    "average_combat_cost_rate": "0.333621387871659256374762511e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.749858e0"
+  },
+  {
+    "attacker_name": "Submerged Sub",
+    "defender_name": "Patrol Boat",
+    "average_combat_cost_rate": "0.667890068131725485070678997e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.749822e0"
+  },
+  {
+    "attacker_name": "Submerged Sub",
+    "defender_name": "Transport",
+    "average_combat_cost_rate": "0.205745497129964347804462289e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.884658e0"
+  },
+  {
+    "attacker_name": "Submerged Sub",
+    "defender_name": "Destroyer",
+    "average_combat_cost_rate": "0.500333255129462952693767862e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.750176e0"
+  },
+  {
+    "attacker_name": "Submerged Sub",
+    "defender_name": "Surfaced Sub",
+    "average_combat_cost_rate": "0.500026675843156712575792739e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.749742e0"
+  },
+  {
+    "attacker_name": "Submerged Sub",
+    "defender_name": "Deep Running Sub",
+    "average_combat_cost_rate": "0.499138962863441642741563569e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.750258e0"
+  },
+  {
+    "attacker_name": "Submerged Sub",
+    "defender_name": "Cruiser",
+    "average_combat_cost_rate": "0.186744175931729514865326051e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.125178e0"
+  },
+  {
+    "attacker_name": "Submerged Sub",
+    "defender_name": "Battleship",
+    "average_combat_cost_rate": "0.1602943300444828072454416874e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.62186e-1"
+  },
+  {
+    "attacker_name": "Submerged Sub",
+    "defender_name": "Carrier",
+    "average_combat_cost_rate": "0.714441067395365697236706355e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.31216e0"
+  },
+  {
+    "attacker_name": "Submerged Sub",
+    "defender_name": "Sea Bee",
+    "average_combat_cost_rate": "0.501187512175335505546615857e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.749466e0"
+  },
+  {
+    "attacker_name": "Submerged Sub",
+    "defender_name": "Scout Satellite",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Submerged Sub",
+    "defender_name": "Armed Satellite",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Submerged Sub",
+    "defender_name": "Short Range Missile",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Submerged Sub",
+    "defender_name": "Long Range Missile",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Submerged Sub",
+    "defender_name": "Short Range Nuke",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Submerged Sub",
+    "defender_name": "Long Range Nuke",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Deep Running Sub",
+    "defender_name": "Infantry",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Deep Running Sub",
+    "defender_name": "Armor",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Deep Running Sub",
+    "defender_name": "Truck",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Deep Running Sub",
+    "defender_name": "Light Artillery",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Deep Running Sub",
+    "defender_name": "Heavy Artillery",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Deep Running Sub",
+    "defender_name": "Engineer",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Deep Running Sub",
+    "defender_name": "Anti Air Battery",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Deep Running Sub",
+    "defender_name": "Fighter",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Deep Running Sub",
+    "defender_name": "Bomber",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Deep Running Sub",
+    "defender_name": "Helicopter",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Deep Running Sub",
+    "defender_name": "Air Transport",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Deep Running Sub",
+    "defender_name": "Patrol Boat",
+    "average_combat_cost_rate": "0.2707732797040457835214082654e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.254978e0"
+  },
+  {
+    "attacker_name": "Deep Running Sub",
+    "defender_name": "Transport",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Deep Running Sub",
+    "defender_name": "Destroyer",
+    "average_combat_cost_rate": "0.3046434412500738930816370766e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.10845e0"
+  },
+  {
+    "attacker_name": "Deep Running Sub",
+    "defender_name": "Surfaced Sub",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Deep Running Sub",
+    "defender_name": "Submerged Sub",
+    "average_combat_cost_rate": "0.405252670463850927155933252e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.109206e0"
+  },
+  {
+    "attacker_name": "Deep Running Sub",
+    "defender_name": "Cruiser",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Deep Running Sub",
+    "defender_name": "Battleship",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Deep Running Sub",
+    "defender_name": "Carrier",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Deep Running Sub",
+    "defender_name": "Sea Bee",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Deep Running Sub",
+    "defender_name": "Scout Satellite",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Deep Running Sub",
+    "defender_name": "Armed Satellite",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Deep Running Sub",
+    "defender_name": "Short Range Missile",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Deep Running Sub",
+    "defender_name": "Long Range Missile",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Deep Running Sub",
+    "defender_name": "Short Range Nuke",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Deep Running Sub",
+    "defender_name": "Long Range Nuke",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Cruiser",
+    "defender_name": "Infantry",
+    "average_combat_cost_rate": "0.387551409870695173473306875e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.999808e0"
+  },
+  {
+    "attacker_name": "Cruiser",
+    "defender_name": "Armor",
+    "average_combat_cost_rate": "0.192460662761948198468518207e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.999816e0"
+  },
+  {
+    "attacker_name": "Cruiser",
+    "defender_name": "Truck",
+    "average_combat_cost_rate": "0.385375577087717333034621262e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.999848e0"
+  },
+  {
+    "attacker_name": "Cruiser",
+    "defender_name": "Light Artillery",
+    "average_combat_cost_rate": "0.193537788499621934972815324e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.999828e0"
+  },
+  {
+    "attacker_name": "Cruiser",
+    "defender_name": "Heavy Artillery",
+    "average_combat_cost_rate": "0.96611014982696885439379088e-1",
+    "fights": "0.5e6",
+    "win_ratio": "0.99982e0"
+  },
+  {
+    "attacker_name": "Cruiser",
+    "defender_name": "Engineer",
+    "average_combat_cost_rate": "0.128575915120212359498866789e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.999814e0"
+  },
+  {
+    "attacker_name": "Cruiser",
+    "defender_name": "Anti Air Battery",
+    "average_combat_cost_rate": "0.128737187642526224825367868e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.999816e0"
+  },
+  {
+    "attacker_name": "Cruiser",
+    "defender_name": "Fighter",
+    "average_combat_cost_rate": "0.75946518462933433386486571e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.95949e0"
+  },
+  {
+    "attacker_name": "Cruiser",
+    "defender_name": "Bomber",
+    "average_combat_cost_rate": "0.1519950173055410265201472535e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.799166e0"
+  },
+  {
+    "attacker_name": "Cruiser",
+    "defender_name": "Helicopter",
+    "average_combat_cost_rate": "0.382055938748446609229434774e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.959192e0"
+  },
+  {
+    "attacker_name": "Cruiser",
+    "defender_name": "Air Transport",
+    "average_combat_cost_rate": "0.125278096813833760350823648e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.996056e0"
+  },
+  {
+    "attacker_name": "Cruiser",
+    "defender_name": "Patrol Boat",
+    "average_combat_cost_rate": "0.249843394877807849530586186e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.996136e0"
+  },
+  {
+    "attacker_name": "Cruiser",
+    "defender_name": "Transport",
+    "average_combat_cost_rate": "0.154421534127138698945357626e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.998948e0"
+  },
+  {
+    "attacker_name": "Cruiser",
+    "defender_name": "Destroyer",
+    "average_combat_cost_rate": "0.374472062320110123889375547e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.980512e0"
+  },
+  {
+    "attacker_name": "Cruiser",
+    "defender_name": "Surfaced Sub",
+    "average_combat_cost_rate": "0.186880411673656379175006474e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.996226e0"
+  },
+  {
+    "attacker_name": "Cruiser",
+    "defender_name": "Submerged Sub",
+    "average_combat_cost_rate": "0.28122170462280115648085125e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.960846e0"
+  },
+  {
+    "attacker_name": "Cruiser",
+    "defender_name": "Deep Running Sub",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Cruiser",
+    "defender_name": "Battleship",
+    "average_combat_cost_rate": "0.1210706421305331514136197993e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.144256e0"
+  },
+  {
+    "attacker_name": "Cruiser",
+    "defender_name": "Carrier",
+    "average_combat_cost_rate": "0.375027179821700369645575125e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.886368e0"
+  },
+  {
+    "attacker_name": "Cruiser",
+    "defender_name": "Sea Bee",
+    "average_combat_cost_rate": "0.187975474596179136842316612e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.99611e0"
+  },
+  {
+    "attacker_name": "Cruiser",
+    "defender_name": "Scout Satellite",
+    "average_combat_cost_rate": "0.38679193387715585355998384e-1",
+    "fights": "0.5e6",
+    "win_ratio": "0.999836e0"
+  },
+  {
+    "attacker_name": "Cruiser",
+    "defender_name": "Armed Satellite",
+    "average_combat_cost_rate": "0.29681276586250431804175941e-1",
+    "fights": "0.5e6",
+    "win_ratio": "0.99983e0"
+  },
+  {
+    "attacker_name": "Cruiser",
+    "defender_name": "Short Range Missile",
+    "average_combat_cost_rate": "0.289104024778466969136340333e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.986986e0"
+  },
+  {
+    "attacker_name": "Cruiser",
+    "defender_name": "Long Range Missile",
+    "average_combat_cost_rate": "0.281016441090342225265519603e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.960946e0"
+  },
+  {
+    "attacker_name": "Cruiser",
+    "defender_name": "Short Range Nuke",
+    "average_combat_cost_rate": "0.29806084345246924560249199e-1",
+    "fights": "0.5e6",
+    "win_ratio": "0.999832e0"
+  },
+  {
+    "attacker_name": "Cruiser",
+    "defender_name": "Long Range Nuke",
+    "average_combat_cost_rate": "0.19242242541597820390233364e-1",
+    "fights": "0.5e6",
+    "win_ratio": "0.999812e0"
+  },
+  {
+    "attacker_name": "Battleship",
+    "defender_name": "Infantry",
+    "average_combat_cost_rate": "0.429928333333333333333333333e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.1e1"
+  },
+  {
+    "attacker_name": "Battleship",
+    "defender_name": "Armor",
+    "average_combat_cost_rate": "0.214391666666666666666666667e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.1e1"
+  },
+  {
+    "attacker_name": "Battleship",
+    "defender_name": "Truck",
+    "average_combat_cost_rate": "0.428661762627434352808155799e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.999992e0"
+  },
+  {
+    "attacker_name": "Battleship",
+    "defender_name": "Light Artillery",
+    "average_combat_cost_rate": "0.214522929045858091716183432e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.999998e0"
+  },
+  {
+    "attacker_name": "Battleship",
+    "defender_name": "Heavy Artillery",
+    "average_combat_cost_rate": "0.107380846190051426872374156e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.999996e0"
+  },
+  {
+    "attacker_name": "Battleship",
+    "defender_name": "Engineer",
+    "average_combat_cost_rate": "0.144032510287242796707815638e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.999998e0"
+  },
+  {
+    "attacker_name": "Battleship",
+    "defender_name": "Anti Air Battery",
+    "average_combat_cost_rate": "0.143292508807239836701895627e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.999998e0"
+  },
+  {
+    "attacker_name": "Battleship",
+    "defender_name": "Fighter",
+    "average_combat_cost_rate": "0.847910658949901523859458079e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.99178e0"
+  },
+  {
+    "attacker_name": "Battleship",
+    "defender_name": "Bomber",
+    "average_combat_cost_rate": "0.1694050628274169322636187127e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.9099e0"
+  },
+  {
+    "attacker_name": "Battleship",
+    "defender_name": "Helicopter",
+    "average_combat_cost_rate": "0.422145463052408888960595017e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.991702e0"
+  },
+  {
+    "attacker_name": "Battleship",
+    "defender_name": "Air Transport",
+    "average_combat_cost_rate": "0.139167006742843730328927013e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.999776e0"
+  },
+  {
+    "attacker_name": "Battleship",
+    "defender_name": "Patrol Boat",
+    "average_combat_cost_rate": "0.277638296510278713580385222e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.999736e0"
+  },
+  {
+    "attacker_name": "Battleship",
+    "defender_name": "Transport",
+    "average_combat_cost_rate": "0.86037172074344148688297377e-1",
+    "fights": "0.5e6",
+    "win_ratio": "0.999998e0"
+  },
+  {
+    "attacker_name": "Battleship",
+    "defender_name": "Destroyer",
+    "average_combat_cost_rate": "0.208003245529977640719097947e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.999734e0"
+  },
+  {
+    "attacker_name": "Battleship",
+    "defender_name": "Surfaced Sub",
+    "average_combat_cost_rate": "0.208606310054878739989464349e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.99978e0"
+  },
+  {
+    "attacker_name": "Battleship",
+    "defender_name": "Submerged Sub",
+    "average_combat_cost_rate": "0.321593405925181209359645851e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.986704e0"
+  },
+  {
+    "attacker_name": "Battleship",
+    "defender_name": "Deep Running Sub",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Battleship",
+    "defender_name": "Cruiser",
+    "average_combat_cost_rate": "0.825302304235677517577071901e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.855542e0"
+  },
+  {
+    "attacker_name": "Battleship",
+    "defender_name": "Carrier",
+    "average_combat_cost_rate": "0.31272263138995158898828027e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.9936e0"
+  },
+  {
+    "attacker_name": "Battleship",
+    "defender_name": "Sea Bee",
+    "average_combat_cost_rate": "0.208361257930585619649313738e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.999716e0"
+  },
+  {
+    "attacker_name": "Battleship",
+    "defender_name": "Scout Satellite",
+    "average_combat_cost_rate": "0.428145e-1",
+    "fights": "0.5e6",
+    "win_ratio": "0.1e1"
+  },
+  {
+    "attacker_name": "Battleship",
+    "defender_name": "Armed Satellite",
+    "average_combat_cost_rate": "0.32895710194773989156755453e-1",
+    "fights": "0.5e6",
+    "win_ratio": "0.999994e0"
+  },
+  {
+    "attacker_name": "Battleship",
+    "defender_name": "Short Range Missile",
+    "average_combat_cost_rate": "0.321933352830181120374339478e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.998452e0"
+  },
+  {
+    "attacker_name": "Battleship",
+    "defender_name": "Long Range Missile",
+    "average_combat_cost_rate": "0.322261685388019550484809046e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.986574e0"
+  },
+  {
+    "attacker_name": "Battleship",
+    "defender_name": "Short Range Nuke",
+    "average_combat_cost_rate": "0.32997886508593530007572836e-1",
+    "fights": "0.5e6",
+    "win_ratio": "0.999998e0"
+  },
+  {
+    "attacker_name": "Battleship",
+    "defender_name": "Long Range Nuke",
+    "average_combat_cost_rate": "0.21468542937085874171748343e-1",
+    "fights": "0.5e6",
+    "win_ratio": "0.999998e0"
+  },
+  {
+    "attacker_name": "Carrier",
+    "defender_name": "Infantry",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Carrier",
+    "defender_name": "Armor",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Carrier",
+    "defender_name": "Truck",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Carrier",
+    "defender_name": "Light Artillery",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Carrier",
+    "defender_name": "Heavy Artillery",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Carrier",
+    "defender_name": "Engineer",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Carrier",
+    "defender_name": "Anti Air Battery",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Carrier",
+    "defender_name": "Fighter",
+    "average_combat_cost_rate": "0.1015901770916936803593950323e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.95939e0"
+  },
+  {
+    "attacker_name": "Carrier",
+    "defender_name": "Bomber",
+    "average_combat_cost_rate": "0.2025073137282871736350418303e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.799182e0"
+  },
+  {
+    "attacker_name": "Carrier",
+    "defender_name": "Helicopter",
+    "average_combat_cost_rate": "0.508275657195271946465425587e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.95938e0"
+  },
+  {
+    "attacker_name": "Carrier",
+    "defender_name": "Air Transport",
+    "average_combat_cost_rate": "0.338917175442219297385654998e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.958838e0"
+  },
+  {
+    "attacker_name": "Carrier",
+    "defender_name": "Patrol Boat",
+    "average_combat_cost_rate": "0.1352008187084146135477695826e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.852436e0"
+  },
+  {
+    "attacker_name": "Carrier",
+    "defender_name": "Transport",
+    "average_combat_cost_rate": "0.599491511500547645125958379e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.945298e0"
+  },
+  {
+    "attacker_name": "Carrier",
+    "defender_name": "Destroyer",
+    "average_combat_cost_rate": "0.1522218251369611397722372183e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.692924e0"
+  },
+  {
+    "attacker_name": "Carrier",
+    "defender_name": "Surfaced Sub",
+    "average_combat_cost_rate": "0.1016487260070363900183087487e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.851634e0"
+  },
+  {
+    "attacker_name": "Carrier",
+    "defender_name": "Submerged Sub",
+    "average_combat_cost_rate": "0.1399184932120328074418128543e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.6879e0"
+  },
+  {
+    "attacker_name": "Carrier",
+    "defender_name": "Deep Running Sub",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Carrier",
+    "defender_name": "Cruiser",
+    "average_combat_cost_rate": "0.5416732628853779234322477502e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.8078e-2"
+  },
+  {
+    "attacker_name": "Carrier",
+    "defender_name": "Battleship",
+    "average_combat_cost_rate": "0.6485684829240279701381616729e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.74e-4"
+  },
+  {
+    "attacker_name": "Carrier",
+    "defender_name": "Sea Bee",
+    "average_combat_cost_rate": "0.507591126883316722476366017e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.959212e0"
+  },
+  {
+    "attacker_name": "Carrier",
+    "defender_name": "Scout Satellite",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Carrier",
+    "defender_name": "Armed Satellite",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Carrier",
+    "defender_name": "Short Range Missile",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Carrier",
+    "defender_name": "Long Range Missile",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Carrier",
+    "defender_name": "Short Range Nuke",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Carrier",
+    "defender_name": "Long Range Nuke",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Sea Bee",
+    "defender_name": "Infantry",
+    "average_combat_cost_rate": "0.4024748323830693859863820021e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.498458e0"
+  },
+  {
+    "attacker_name": "Sea Bee",
+    "defender_name": "Armor",
+    "average_combat_cost_rate": "0.400234768086480026037915046e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.249884e0"
+  },
+  {
+    "attacker_name": "Sea Bee",
+    "defender_name": "Truck",
+    "average_combat_cost_rate": "0.3996993130582900829288187641e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.500188e0"
+  },
+  {
+    "attacker_name": "Sea Bee",
+    "defender_name": "Light Artillery",
+    "average_combat_cost_rate": "0.1999440078389025536424900514e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.50007e0"
+  },
+  {
+    "attacker_name": "Sea Bee",
+    "defender_name": "Heavy Artillery",
+    "average_combat_cost_rate": "0.1003293414373229589445047658e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.499178e0"
+  },
+  {
+    "attacker_name": "Sea Bee",
+    "defender_name": "Engineer",
+    "average_combat_cost_rate": "0.1333354666837334698677589421e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.499996e0"
+  },
+  {
+    "attacker_name": "Sea Bee",
+    "defender_name": "Anti Air Battery",
+    "average_combat_cost_rate": "0.1318472612811139706418563702e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.502802e0"
+  },
+  {
+    "attacker_name": "Sea Bee",
+    "defender_name": "Fighter",
+    "average_combat_cost_rate": "0.4054698143024079534514806764e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.330322e0"
+  },
+  {
+    "attacker_name": "Sea Bee",
+    "defender_name": "Bomber",
+    "average_combat_cost_rate": "0.4066672733339400006066672733e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.32967e0"
+  },
+  {
+    "attacker_name": "Sea Bee",
+    "defender_name": "Helicopter",
+    "average_combat_cost_rate": "0.2028174132125293732890816153e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.330232e0"
+  },
+  {
+    "attacker_name": "Sea Bee",
+    "defender_name": "Air Transport",
+    "average_combat_cost_rate": "0.669820777033799767451184796e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.49882e0"
+  },
+  {
+    "attacker_name": "Sea Bee",
+    "defender_name": "Patrol Boat",
+    "average_combat_cost_rate": "0.2677453183520599250936329589e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.249376e0"
+  },
+  {
+    "attacker_name": "Sea Bee",
+    "defender_name": "Transport",
+    "average_combat_cost_rate": "0.2396192093800509547160507356e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.125318e0"
+  },
+  {
+    "attacker_name": "Sea Bee",
+    "defender_name": "Destroyer",
+    "average_combat_cost_rate": "0.6084791607073749390048964346e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.35666e-1"
+  },
+  {
+    "attacker_name": "Sea Bee",
+    "defender_name": "Surfaced Sub",
+    "average_combat_cost_rate": "0.2004701897055169815958131744e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.249606e0"
+  },
+  {
+    "attacker_name": "Sea Bee",
+    "defender_name": "Submerged Sub",
+    "average_combat_cost_rate": "0.1993042127576952845519805733e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.250662e0"
+  },
+  {
+    "attacker_name": "Sea Bee",
+    "defender_name": "Deep Running Sub",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Sea Bee",
+    "defender_name": "Cruiser",
+    "average_combat_cost_rate": "0.10826402677787117007007128945e2",
+    "fights": "0.5e6",
+    "win_ratio": "0.156e-3"
+  },
+  {
+    "attacker_name": "Sea Bee",
+    "defender_name": "Battleship",
+    "average_combat_cost_rate": "0.9726503665698063198336757894e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.6e-5"
+  },
+  {
+    "attacker_name": "Sea Bee",
+    "defender_name": "Carrier",
+    "average_combat_cost_rate": "0.8148105288892510797815988917e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.146e-3"
+  },
+  {
+    "attacker_name": "Sea Bee",
+    "defender_name": "Scout Satellite",
+    "average_combat_cost_rate": "0.99973751378052652235757623e-1",
+    "fights": "0.5e6",
+    "win_ratio": "0.800042e0"
+  },
+  {
+    "attacker_name": "Sea Bee",
+    "defender_name": "Armed Satellite",
+    "average_combat_cost_rate": "0.77122218440350573729597374e-1",
+    "fights": "0.5e6",
+    "win_ratio": "0.799586e0"
+  },
+  {
+    "attacker_name": "Sea Bee",
+    "defender_name": "Short Range Missile",
+    "average_combat_cost_rate": "0.37467193241182793011223036e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.80014e0"
+  },
+  {
+    "attacker_name": "Sea Bee",
+    "defender_name": "Long Range Missile",
+    "average_combat_cost_rate": "0.250087506125428780014601022e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.799944e0"
+  },
+  {
+    "attacker_name": "Sea Bee",
+    "defender_name": "Short Range Nuke",
+    "average_combat_cost_rate": "0.76809648845898152352748247e-1",
+    "fights": "0.5e6",
+    "win_ratio": "0.800236e0"
+  },
+  {
+    "attacker_name": "Sea Bee",
+    "defender_name": "Long Range Nuke",
+    "average_combat_cost_rate": "0.49921274798438491875059356e-1",
+    "fights": "0.5e6",
+    "win_ratio": "0.800252e0"
+  },
+  {
+    "attacker_name": "Scout Satellite",
+    "defender_name": "Infantry",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Scout Satellite",
+    "defender_name": "Armor",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Scout Satellite",
+    "defender_name": "Truck",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Scout Satellite",
+    "defender_name": "Light Artillery",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Scout Satellite",
+    "defender_name": "Heavy Artillery",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Scout Satellite",
+    "defender_name": "Engineer",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Scout Satellite",
+    "defender_name": "Anti Air Battery",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Scout Satellite",
+    "defender_name": "Fighter",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Scout Satellite",
+    "defender_name": "Bomber",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Scout Satellite",
+    "defender_name": "Helicopter",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Scout Satellite",
+    "defender_name": "Air Transport",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Scout Satellite",
+    "defender_name": "Patrol Boat",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Scout Satellite",
+    "defender_name": "Transport",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Scout Satellite",
+    "defender_name": "Destroyer",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Scout Satellite",
+    "defender_name": "Surfaced Sub",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Scout Satellite",
+    "defender_name": "Submerged Sub",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Scout Satellite",
+    "defender_name": "Deep Running Sub",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Scout Satellite",
+    "defender_name": "Cruiser",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Scout Satellite",
+    "defender_name": "Battleship",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Scout Satellite",
+    "defender_name": "Carrier",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Scout Satellite",
+    "defender_name": "Sea Bee",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Scout Satellite",
+    "defender_name": "Armed Satellite",
+    "average_combat_cost_rate": "0.769107702153058524548805326e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.50004e0"
+  },
+  {
+    "attacker_name": "Scout Satellite",
+    "defender_name": "Short Range Missile",
+    "average_combat_cost_rate": "0.7595895508840721780488690411e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.330516e0"
+  },
+  {
+    "attacker_name": "Scout Satellite",
+    "defender_name": "Long Range Missile",
+    "average_combat_cost_rate": "0.5066585956416464891041162228e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.3304e0"
+  },
+  {
+    "attacker_name": "Scout Satellite",
+    "defender_name": "Short Range Nuke",
+    "average_combat_cost_rate": "0.1560035199867325010400172553e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.330246e0"
+  },
+  {
+    "attacker_name": "Scout Satellite",
+    "defender_name": "Long Range Nuke",
+    "average_combat_cost_rate": "0.1015960027166003686814786068e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.329824e0"
+  },
+  {
+    "attacker_name": "Armed Satellite",
+    "defender_name": "Infantry",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Armed Satellite",
+    "defender_name": "Armor",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Armed Satellite",
+    "defender_name": "Truck",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Armed Satellite",
+    "defender_name": "Light Artillery",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Armed Satellite",
+    "defender_name": "Heavy Artillery",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Armed Satellite",
+    "defender_name": "Engineer",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Armed Satellite",
+    "defender_name": "Anti Air Battery",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Armed Satellite",
+    "defender_name": "Fighter",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Armed Satellite",
+    "defender_name": "Bomber",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Armed Satellite",
+    "defender_name": "Helicopter",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Armed Satellite",
+    "defender_name": "Air Transport",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Armed Satellite",
+    "defender_name": "Patrol Boat",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Armed Satellite",
+    "defender_name": "Transport",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Armed Satellite",
+    "defender_name": "Destroyer",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Armed Satellite",
+    "defender_name": "Surfaced Sub",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Armed Satellite",
+    "defender_name": "Submerged Sub",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Armed Satellite",
+    "defender_name": "Deep Running Sub",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Armed Satellite",
+    "defender_name": "Cruiser",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Armed Satellite",
+    "defender_name": "Battleship",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Armed Satellite",
+    "defender_name": "Carrier",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Armed Satellite",
+    "defender_name": "Sea Bee",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Armed Satellite",
+    "defender_name": "Scout Satellite",
+    "average_combat_cost_rate": "0.1296707375048438579880711258e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.500634e0"
+  },
+  {
+    "attacker_name": "Armed Satellite",
+    "defender_name": "Short Range Missile",
+    "average_combat_cost_rate": "0.9883416081375635747154274643e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.33032e0"
+  },
+  {
+    "attacker_name": "Armed Satellite",
+    "defender_name": "Long Range Missile",
+    "average_combat_cost_rate": "0.6588765340905650781349333689e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.330326e0"
+  },
+  {
+    "attacker_name": "Armed Satellite",
+    "defender_name": "Short Range Nuke",
+    "average_combat_cost_rate": "0.2018375872310627097771231256e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.331304e0"
+  },
+  {
+    "attacker_name": "Armed Satellite",
+    "defender_name": "Long Range Nuke",
+    "average_combat_cost_rate": "0.1311814044174015923893687788e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.331326e0"
+  },
+  {
+    "attacker_name": "Short Range Missile",
+    "defender_name": "Infantry",
+    "average_combat_cost_rate": "0.2662659013754989581168294775e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.500376e0"
+  },
+  {
+    "attacker_name": "Short Range Missile",
+    "defender_name": "Armor",
+    "average_combat_cost_rate": "0.133833469588402823418773277e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.499064e0"
+  },
+  {
+    "attacker_name": "Short Range Missile",
+    "defender_name": "Truck",
+    "average_combat_cost_rate": "0.2669142482111699828720526325e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.499768e0"
+  },
+  {
+    "attacker_name": "Short Range Missile",
+    "defender_name": "Light Artillery",
+    "average_combat_cost_rate": "0.1331840835798619439780389648e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.50028e0"
+  },
+  {
+    "attacker_name": "Short Range Missile",
+    "defender_name": "Heavy Artillery",
+    "average_combat_cost_rate": "0.666992079400707105867164922e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.499878e0"
+  },
+  {
+    "attacker_name": "Short Range Missile",
+    "defender_name": "Engineer",
+    "average_combat_cost_rate": "0.888960002844558226773515385e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.49998e0"
+  },
+  {
+    "attacker_name": "Short Range Missile",
+    "defender_name": "Anti Air Battery",
+    "average_combat_cost_rate": "0.889593167783331087999736785e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.499802e0"
+  },
+  {
+    "attacker_name": "Short Range Missile",
+    "defender_name": "Fighter",
+    "average_combat_cost_rate": "0.1330935491391081360109235022e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.50045e0"
+  },
+  {
+    "attacker_name": "Short Range Missile",
+    "defender_name": "Bomber",
+    "average_combat_cost_rate": "0.1333194673876958398163295509e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.500026e0"
+  },
+  {
+    "attacker_name": "Short Range Missile",
+    "defender_name": "Helicopter",
+    "average_combat_cost_rate": "0.666613335466581336746530139e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.50002e0"
+  },
+  {
+    "attacker_name": "Short Range Missile",
+    "defender_name": "Air Transport",
+    "average_combat_cost_rate": "0.445234479328755045591596449e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.499556e0"
+  },
+  {
+    "attacker_name": "Short Range Missile",
+    "defender_name": "Patrol Boat",
+    "average_combat_cost_rate": "0.888391250449874035270124365e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.50014e0"
+  },
+  {
+    "attacker_name": "Short Range Missile",
+    "defender_name": "Transport",
+    "average_combat_cost_rate": "0.963344602454603946813170592e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.24951e0"
+  },
+  {
+    "attacker_name": "Short Range Missile",
+    "defender_name": "Destroyer",
+    "average_combat_cost_rate": "0.1193964864153621639725994625e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.25139e0"
+  },
+  {
+    "attacker_name": "Short Range Missile",
+    "defender_name": "Surfaced Sub",
+    "average_combat_cost_rate": "0.661830935395161611733290821e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.50182e0"
+  },
+  {
+    "attacker_name": "Short Range Missile",
+    "defender_name": "Submerged Sub",
+    "average_combat_cost_rate": "0.664244408509845414678618248e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.50091e0"
+  },
+  {
+    "attacker_name": "Short Range Missile",
+    "defender_name": "Deep Running Sub",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Short Range Missile",
+    "defender_name": "Cruiser",
+    "average_combat_cost_rate": "0.1772625028994852216696353139e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.62902e-1"
+  },
+  {
+    "attacker_name": "Short Range Missile",
+    "defender_name": "Battleship",
+    "average_combat_cost_rate": "0.159780781877968578735842163e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.1603e-1"
+  },
+  {
+    "attacker_name": "Short Range Missile",
+    "defender_name": "Carrier",
+    "average_combat_cost_rate": "0.1333242345080059000195482575e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.62214e-1"
+  },
+  {
+    "attacker_name": "Short Range Missile",
+    "defender_name": "Sea Bee",
+    "average_combat_cost_rate": "0.665840512215759562404642456e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.50031e0"
+  },
+  {
+    "attacker_name": "Short Range Missile",
+    "defender_name": "Scout Satellite",
+    "average_combat_cost_rate": "0.266858735811558827844690755e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.49982e0"
+  },
+  {
+    "attacker_name": "Short Range Missile",
+    "defender_name": "Armed Satellite",
+    "average_combat_cost_rate": "0.205274308423029367685665328e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.499822e0"
+  },
+  {
+    "attacker_name": "Short Range Missile",
+    "defender_name": "Long Range Missile",
+    "average_combat_cost_rate": "0.665941727700131128666005693e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.500272e0"
+  },
+  {
+    "attacker_name": "Short Range Missile",
+    "defender_name": "Short Range Nuke",
+    "average_combat_cost_rate": "0.205705014969221915774876131e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.499298e0"
+  },
+  {
+    "attacker_name": "Short Range Missile",
+    "defender_name": "Long Range Nuke",
+    "average_combat_cost_rate": "0.133681520702996707706849732e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.499348e0"
+  },
+  {
+    "attacker_name": "Long Range Missile",
+    "defender_name": "Infantry",
+    "average_combat_cost_rate": "0.3992934246126424240970981653e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.500442e0"
+  },
+  {
+    "attacker_name": "Long Range Missile",
+    "defender_name": "Armor",
+    "average_combat_cost_rate": "0.1996067869216690776276144275e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.500492e0"
+  },
+  {
+    "attacker_name": "Long Range Missile",
+    "defender_name": "Truck",
+    "average_combat_cost_rate": "0.4027196140524095636014818205e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.498306e0"
+  },
+  {
+    "attacker_name": "Long Range Missile",
+    "defender_name": "Light Artillery",
+    "average_combat_cost_rate": "0.1999968000255997952016383869e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.500004e0"
+  },
+  {
+    "attacker_name": "Long Range Missile",
+    "defender_name": "Heavy Artillery",
+    "average_combat_cost_rate": "0.995625588709548669316857448e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.501096e0"
+  },
+  {
+    "attacker_name": "Long Range Missile",
+    "defender_name": "Engineer",
+    "average_combat_cost_rate": "0.1336686878719671907916342927e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.499372e0"
+  },
+  {
+    "attacker_name": "Long Range Missile",
+    "defender_name": "Anti Air Battery",
+    "average_combat_cost_rate": "0.1337489133091089735628638161e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.499222e0"
+  },
+  {
+    "attacker_name": "Long Range Missile",
+    "defender_name": "Fighter",
+    "average_combat_cost_rate": "0.1995764489640980560605757897e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.50053e0"
+  },
+  {
+    "attacker_name": "Long Range Missile",
+    "defender_name": "Bomber",
+    "average_combat_cost_rate": "0.2001984984552337959627975476e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.499752e0"
+  },
+  {
+    "attacker_name": "Long Range Missile",
+    "defender_name": "Helicopter",
+    "average_combat_cost_rate": "0.997858295906787923346172903e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.500536e0"
+  },
+  {
+    "attacker_name": "Long Range Missile",
+    "defender_name": "Air Transport",
+    "average_combat_cost_rate": "0.665499688939155966040415263e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.500438e0"
+  },
+  {
+    "attacker_name": "Long Range Missile",
+    "defender_name": "Patrol Boat",
+    "average_combat_cost_rate": "0.1332117887576598404460899163e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.500228e0"
+  },
+  {
+    "attacker_name": "Long Range Missile",
+    "defender_name": "Transport",
+    "average_combat_cost_rate": "0.797373917279991693655630145e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.500822e0"
+  },
+  {
+    "attacker_name": "Long Range Missile",
+    "defender_name": "Destroyer",
+    "average_combat_cost_rate": "0.99982401548663717592851829e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.500044e0"
+  },
+  {
+    "attacker_name": "Long Range Missile",
+    "defender_name": "Surfaced Sub",
+    "average_combat_cost_rate": "0.994129283389700721077148874e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.501472e0"
+  },
+  {
+    "attacker_name": "Long Range Missile",
+    "defender_name": "Submerged Sub",
+    "average_combat_cost_rate": "0.997084256984802188804345655e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.50073e0"
+  },
+  {
+    "attacker_name": "Long Range Missile",
+    "defender_name": "Deep Running Sub",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Long Range Missile",
+    "defender_name": "Cruiser",
+    "average_combat_cost_rate": "0.1867875110730916071767237413e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.124678e0"
+  },
+  {
+    "attacker_name": "Long Range Missile",
+    "defender_name": "Battleship",
+    "average_combat_cost_rate": "0.1592549080425827531776667863e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.6297e-1"
+  },
+  {
+    "attacker_name": "Long Range Missile",
+    "defender_name": "Carrier",
+    "average_combat_cost_rate": "0.1398345865863306190616984043e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.125048e0"
+  },
+  {
+    "attacker_name": "Long Range Missile",
+    "defender_name": "Sea Bee",
+    "average_combat_cost_rate": "0.998393291793398107921231331e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.500402e0"
+  },
+  {
+    "attacker_name": "Long Range Missile",
+    "defender_name": "Scout Satellite",
+    "average_combat_cost_rate": "0.399149704714184108108972054e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.500532e0"
+  },
+  {
+    "attacker_name": "Long Range Missile",
+    "defender_name": "Armed Satellite",
+    "average_combat_cost_rate": "0.3085501171476849620826036e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.499304e0"
+  },
+  {
+    "attacker_name": "Long Range Missile",
+    "defender_name": "Short Range Missile",
+    "average_combat_cost_rate": "0.1496236726671300846137251612e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.500628e0"
+  },
+  {
+    "attacker_name": "Long Range Missile",
+    "defender_name": "Short Range Nuke",
+    "average_combat_cost_rate": "0.308172682384567655078653658e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.49961e0"
+  },
+  {
+    "attacker_name": "Long Range Missile",
+    "defender_name": "Long Range Nuke",
+    "average_combat_cost_rate": "0.200671525476698947435902573e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.499162e0"
+  },
+  {
+    "attacker_name": "Short Range Nuke",
+    "defender_name": "Infantry",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Short Range Nuke",
+    "defender_name": "Armor",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Short Range Nuke",
+    "defender_name": "Truck",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Short Range Nuke",
+    "defender_name": "Light Artillery",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Short Range Nuke",
+    "defender_name": "Heavy Artillery",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Short Range Nuke",
+    "defender_name": "Engineer",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Short Range Nuke",
+    "defender_name": "Anti Air Battery",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Short Range Nuke",
+    "defender_name": "Fighter",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Short Range Nuke",
+    "defender_name": "Bomber",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Short Range Nuke",
+    "defender_name": "Helicopter",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Short Range Nuke",
+    "defender_name": "Air Transport",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Short Range Nuke",
+    "defender_name": "Patrol Boat",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Short Range Nuke",
+    "defender_name": "Transport",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Short Range Nuke",
+    "defender_name": "Destroyer",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Short Range Nuke",
+    "defender_name": "Surfaced Sub",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Short Range Nuke",
+    "defender_name": "Submerged Sub",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Short Range Nuke",
+    "defender_name": "Deep Running Sub",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Short Range Nuke",
+    "defender_name": "Cruiser",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Short Range Nuke",
+    "defender_name": "Battleship",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Short Range Nuke",
+    "defender_name": "Carrier",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Short Range Nuke",
+    "defender_name": "Sea Bee",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Short Range Nuke",
+    "defender_name": "Scout Satellite",
+    "average_combat_cost_rate": "0.1293474817359523439027407044e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.501258e0"
+  },
+  {
+    "attacker_name": "Short Range Nuke",
+    "defender_name": "Armed Satellite",
+    "average_combat_cost_rate": "0.998824691081643993331920831e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.500294e0"
+  },
+  {
+    "attacker_name": "Short Range Nuke",
+    "defender_name": "Short Range Missile",
+    "average_combat_cost_rate": "0.4865454354732362284960738476e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.50049e0"
+  },
+  {
+    "attacker_name": "Short Range Nuke",
+    "defender_name": "Long Range Missile",
+    "average_combat_cost_rate": "0.324615427666821241824839695e1",
+    "fights": "0.5e6",
+    "win_ratio": "0.500296e0"
+  },
+  {
+    "attacker_name": "Short Range Nuke",
+    "defender_name": "Long Range Nuke",
+    "average_combat_cost_rate": "0.650717996333976354947931258e0",
+    "fights": "0.5e6",
+    "win_ratio": "0.499724e0"
+  },
+  {
+    "attacker_name": "Long Range Nuke",
+    "defender_name": "Infantry",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Long Range Nuke",
+    "defender_name": "Armor",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Long Range Nuke",
+    "defender_name": "Truck",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Long Range Nuke",
+    "defender_name": "Light Artillery",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Long Range Nuke",
+    "defender_name": "Heavy Artillery",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Long Range Nuke",
+    "defender_name": "Engineer",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Long Range Nuke",
+    "defender_name": "Anti Air Battery",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Long Range Nuke",
+    "defender_name": "Fighter",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Long Range Nuke",
+    "defender_name": "Bomber",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Long Range Nuke",
+    "defender_name": "Helicopter",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Long Range Nuke",
+    "defender_name": "Air Transport",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Long Range Nuke",
+    "defender_name": "Patrol Boat",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Long Range Nuke",
+    "defender_name": "Transport",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Long Range Nuke",
+    "defender_name": "Destroyer",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Long Range Nuke",
+    "defender_name": "Surfaced Sub",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Long Range Nuke",
+    "defender_name": "Submerged Sub",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Long Range Nuke",
+    "defender_name": "Deep Running Sub",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Long Range Nuke",
+    "defender_name": "Cruiser",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Long Range Nuke",
+    "defender_name": "Battleship",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Long Range Nuke",
+    "defender_name": "Carrier",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Long Range Nuke",
+    "defender_name": "Sea Bee",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Long Range Nuke",
+    "defender_name": "Scout Satellite",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Long Range Nuke",
+    "defender_name": "Armed Satellite",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Long Range Nuke",
+    "defender_name": "Short Range Missile",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Long Range Nuke",
+    "defender_name": "Long Range Missile",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  },
+  {
+    "attacker_name": "Long Range Nuke",
+    "defender_name": "Short Range Nuke",
+    "average_combat_cost_rate": 0,
+    "fights": 0,
+    "win_ratio": 0
+  }
+]

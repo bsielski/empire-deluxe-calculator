@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
 import {CombatBoxContainer} from './CombatBoxContainer';
-import {SortButtonContainer} from './SortButtonContainer';
 import {SearchContainer} from './SearchContainer';
 import {CurrentSort} from './CurrentSort';
 import {TitleBar} from './TitleBar';
 import {Footer} from './Footer';
+import {RadioButtonGroup} from './RadioButtonGroup';
 
-import combatData from './combat-x-200_000';
+import combatData from './combat-x-500_000';
 
 import './App.css';
 
@@ -15,160 +15,123 @@ class App extends Component {
     constructor(props) {
 	super(props);
 	this.state = {
-	    currentSorting: this.sortByWinRatio,
-	    currentSortingName: "sortByWinRatio",
+	    order: 0,
+	    sorting: 0,
 	    defender: "",
-	    attacker: ""
-	    
+	    attacker: ""  
 	};
 	this.changeDefender = this.changeDefender.bind(this);
-	this.filterCombats = this.filterCombats.bind(this);
 
-	this.clickByWinRatio = this.clickByWinRatio.bind(this);
-	this.clickByCostRatio = this.clickByCostRatio.bind(this);
+	this.filterCombats = this.filterCombats.bind(this);
+	this.sortCombats = this.sortCombats.bind(this);
+
+	this.setOrder = this.setOrder.bind(this);	
+	this.setSorting = this.setSorting.bind(this);
     }
 
     componentWillMount() {
-	this.setState({currentSorting: this.sortByWinRatio});
+
+	this.orders = [
+	    {
+		currentSortLabel: "best first",
+		buttonLabel: "best first",
+		comparisonMod: (bool) => bool
+	    },
+	    {
+		currentSortLabel: "worst first",
+		buttonLabel: "worst first",
+		comparisonMod: (bool) => !bool
+	    }
+	];
+	this.sortings = [
+	    {
+		currentSortLabel: "Sorted by Win Ratio",
+		buttonLabel: "Sort by Win Ratio",
+		comparison: (a, b) => a.winRatio > b.winRatio
+	    },
+	    {
+		currentSortLabel: "Sorted by Combat Cost",
+		buttonLabel: "Sort by Combat Cost",
+		comparison: (a, b) => a.averageCombatCostRate < b.averageCombatCostRate
+	    }
+	];
+
+	this.tests = {
+	    "winRatio": value => {
+		if (value >= 51) {
+		    return "good";
+		}
+		else if (value <= 49) {
+		    return "bad";
+		}
+		else {
+		    return "medium";
+		}
+	    },
+	    "averageCombatCostRate": value => {
+		if (value <= 0.9) {
+		    return "good";
+		}
+		else if (value >= 1.1) {
+		    return "bad";
+		}
+		else {
+		    return "medium";
+		}
+	    }
+	};
+	
 	this.combats = combatData
 	    .filter( combat =>
 		     Number(combat.fights) > 0
 		   )
 	    .map( (combat, index) => {
+		const winRatio = Math.round(Math.round(Number(combat.win_ratio).toFixed(4) * 1000) / 10.0);
+		const averageCombatCostRate = (Math.round((Math.round((Math.round((Number(combat.average_combat_cost_rate).toFixed(4) * 1000)) / 10)) / 10)) / 10).toFixed(1);
 		return {
 		    key: index,
 		    attackerName: combat.attacker_name,
 		    defenderName: combat.defender_name,
-		    averageCombatCostRate: (Math.round((Math.round((Math.round((Number(combat.average_combat_cost_rate).toFixed(4) * 1000)) / 10)) / 10)) / 10).toFixed(1),
+		    averageCombatCostRate: averageCombatCostRate,
 		    fights: Number(combat.fights).toFixed(0),
-		    winRatio: Math.round(Math.round(Number(combat.win_ratio).toFixed(4) * 1000) / 10.0)
+		    winRatio: winRatio,
+		    winRatioQuality: this.tests.winRatio(winRatio),
+		    combatCostRateQuality: this.tests.averageCombatCostRate(averageCombatCostRate)
 		}
 	    });
-	this.sortLabels = {
-	    "sortByWinRatio": {
-		name: "By Win Ratio (from best to worst)",
-		icon: "001-sort-by-order.svg",
-		keyValue: "winRatio",
-		testGood: value => value >= 51,
-		testBad: value => value <= 49
-	    },
-	    "sortByWinRatioReversed": {
-		name: "By Win Ratio (from worst to best)",
-		icon: "002-sort-by-numeric-order.svg",
-		keyValue: "winRatio",
-		testGood: value => value >= 51,
-		testBad: value => value <= 49,
-	    },
-	    "sortByCostRatio": {
-		name: "By Combat Cost Ratio (from best to worst)",
-		icon: "002-sort-by-numeric-order.svg",
-		keyValue: "averageCombatCostRate",
-		testGood: value => value <= 0.9,
-		testBad: value => value >= 1.1
-	    },
-	    "sortByCostRatioReversed": {
-		name: "By Combat Cost Ratio (from worst to best)",
-		icon: "001-sort-by-order.svg",
-		keyValue: "averageCombatCostRate",
-		testGood: value => value <= 0.9,
-		testBad: value => value >= 1.1
-	    }
-	};
-	
+
 	this.abbreviations = {
-		IN: "Infantry",
-	    AR: "Armor",
-	    TK: "Truck",
-	    LA: "Light Artillery",
-	    HA: "Heavy Artillery",
-	    EN: "Engineer",
-	    AA: "Anti Air Battery",
-	    FI: "Fighter",
-	    BO: "Bomber",
-	    HE: "Helicopter",
-	    AT: "Air Transport",
-	    PB: "Patrol Boat",
-	    TR: "Transport",
-	    DE: "Destroyer",
-	    SS: "Surfaced Sub",
-	    SU: "Submerged Sub",
-	    SD: "Deep Running Sub",
-	    CR: "Cruiser",
-	    BA: "Battleship",
-	    AC: "Carrier",
-	    SB: "Sea Bee",
-	    SC: "Scout Satellite",
-	    AS: "Armed Satellite",
-	    SR: "Short Range Missile",
-	    LR: "Long Range Missile",
-	    SN: "Short Range Nuke",
-	    LN: "Long Range Nuke"
+	    "IN": "Infantry", AR: "Armor", TK: "Truck", LA: "Light Artillery", HA: "Heavy Artillery",
+	    EN: "Engineer", AA: "Anti Air Battery", FI: "Fighter", BO: "Bomber", HE: "Helicopter",
+	    AT: "Air Transport", PB: "Patrol Boat", TR: "Transport", DE: "Destroyer", SS: "Surfaced Sub",
+	    SU: "Submerged Sub", SD: "Deep Running Sub", CR: "Cruiser", BA: "Battleship", AC: "Carrier",
+	    SB: "Sea Bee", SC: "Scout Satellite", AS: "Armed Satellite", SR: "Short Range Missile",
+	    LR: "Long Range Missile", SN: "Short Range Nuke", LN: "Long Range Nuke"
 	};
 	
     }
-    
-    sortByWinRatio(combats) {
-	const sorted = combats.slice();
-	sorted.sort((a,b) => {
-	    if (a.winRatio > b.winRatio) return -1; else return 1
-	});
-	return sorted;
-    }
 
-    sortByWinRatioReversed(combats) {
+    setOrder(option) {
+	this.setState({ order: option });
+    }
+    
+    setSorting(option) {
+	this.setState({ sorting: option });
+    }
+    
+    sortCombats(combats) {
 	const sorted = combats.slice();
 	sorted.sort((a,b) => {
-	    if (a.winRatio < b.winRatio) return -1; else return 1
+	    if (this.orders[this.state.order].comparisonMod(this.sortings[this.state.sorting].comparison(a, b))) {
+		return -1;
+	    }
+	    else {
+		return 1;
+	    }
 	});
 	return sorted;
     }
     
-    sortByCostRatio(combats) {
-	const sorted = combats.slice();
-	sorted.sort((a,b) => {
-	    if (a.averageCombatCostRate < b.averageCombatCostRate) return -1; else return 1
-	});
-	return sorted;
-    }
-
-    sortByCostRatioReversed(combats) {
-	const sorted = combats.slice();
-	sorted.sort((a,b) => {
-	    if (a.averageCombatCostRate > b.averageCombatCostRate) return -1; else return 1
-	});
-	return sorted;
-    }
-    
-    clickByWinRatio(isReversed) {
-	if (isReversed === false) {
-	    this.setState({
-		currentSorting: this.sortByWinRatio,
-		currentSortingName: "sortByWinRatio"
-	    });
-	}
-	else {
-	    this.setState({
-		currentSorting: this.sortByWinRatioReversed,
-		currentSortingName: "sortByWinRatioReversed"
-	    });
-	}
-    }
-    
-    clickByCostRatio(isReversed) {
-	if (isReversed === false) {
-	    this.setState({
-		currentSorting: this.sortByCostRatio,
-		currentSortingName: "sortByCostRatio"
-	    });
-	}
-	else {
-	    this.setState({
-		currentSorting: this.sortByCostRatioReversed,
-		currentSortingName: "sortByCostRatioReversed"
-	    });
-	}
-    }
-
     filterCombats(combats) {
 	let defenderPhrase = this.state.defender;
 	let attackerPhrase = this.state.attacker;
@@ -201,16 +164,26 @@ class App extends Component {
     }
     
     render() {
-	const combatToDisplay = this.state.currentSorting(this.filterCombats(this.combats));
+	const combatToDisplay = this.sortCombats(this.filterCombats(this.combats));
 
 	return (
 	    <div className="page_container">
-              <TitleBar/>
-
-	      <SortButtonContainer
-		clickByWinRatio={this.clickByWinRatio}
-		clickByCostRatio={this.clickByCostRatio}
+	      <TitleBar/>
+	      
+	      <RadioButtonGroup
+		options={this.orders}
+		name={"order"}
+		selectedOption={this.state.order}
+		onChange={this.setOrder}
 		/>
+	      
+	      <RadioButtonGroup
+		options={this.sortings}
+		name={"sorting"}
+		selectedOption={this.state.sorting}
+		onChange={this.setSorting}
+		/>
+	      
 	      <SearchContainer
 		defenderValue={this.state.defender}
 		attackerValue={this.state.attacker}
@@ -218,15 +191,15 @@ class App extends Component {
 		/>
 
 	      <CurrentSort
-		method={this.sortLabels[this.state.currentSortingName]}	
+		reversed={this.orders[this.state.order].currentSortLabel}
+		byWhat={this.sortings[this.state.sorting].currentSortLabel}
 		/>
 	      
 	      <CombatBoxContainer
 		combatToDisplay={combatToDisplay}
-		keyValue={this.sortLabels[this.state.currentSortingName].keyValue}
-		testGood={this.sortLabels[this.state.currentSortingName].testGood}
-		testBad={this.sortLabels[this.state.currentSortingName].testBad}
+		tests={this.tests}
 		/>
+
               <Footer/>
 	    </div>
 	);

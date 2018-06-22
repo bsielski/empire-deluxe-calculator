@@ -10,7 +10,7 @@ export class TitleBar extends React.Component {
 		Empire Deluxe EE unit comparison
 	      </h1>
 	      <p className="title-bar__subtitle">
-		based on 200k combat simulations between each pair of units
+		based on 500k combat simulations between each pair of units
 	      </p>
 	    </header>
 	)
